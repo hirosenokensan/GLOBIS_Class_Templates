@@ -1,0 +1,1 @@
+# GLOBIS_Class_Templates
