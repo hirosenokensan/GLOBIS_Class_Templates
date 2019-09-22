@@ -13,11 +13,18 @@
 HOME PAGE
  https://github.com/hirosenokensan/GLOBIS_Class_Templates
 
-git
+git get clone
  git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git
 
-git contribute
- git commit -am "I contribute this code."
+git file contribute
+ git add README.md
+ git commit -m "I contribute this modified file."
+
+git push
+ git push
+
+git pull
+ git pull
 
 --
 不明点、改善点、ご意見、ご希望(多分あまり聞けませんが)等ございましたら、別途コメントを頂ければ幸いです。
