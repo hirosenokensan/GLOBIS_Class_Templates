@@ -10,8 +10,7 @@
 どなたかの一助になれば幸いです。
 
 
-[HIROKEN GLOBIS Class Templates HOME PAGE]
- (https://github.com/hirosenokensan/GLOBIS_Class_Templates)
+[HIROKEN GLOBIS Class Templates HOME PAGE](https://github.com/hirosenokensan/GLOBIS_Class_Templates)
 
 git get clone
 `git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git`
