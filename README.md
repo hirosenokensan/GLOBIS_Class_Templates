@@ -4,25 +4,22 @@
 いつもお世話になっております。
 
 ## Overview
-これは、私がグロービスでの学びと気付きを、効率的に得るために纏めたテンプレート集です。
+これは、私がグロービスの講義を効率的に進め、気付きと、学びを得るために纏めたテンプレート集です。
 どなたかの一助になれば幸いです。
 
 
 ## Description
+[HIROKEN GLOBIS Class Templates HOME PAGE](https://github.com/hirosenokensan/GLOBIS_Class_Templates)  
+https://github.com/hirosenokensan/GLOBIS_Class_Templates
+
 
 ## Demo
 
 ## VS. 
 
 ## Requirement
-git pull  
-`git pull`
-
 
 ## Usage
-[HIROKEN GLOBIS Class Templates HOME PAGE](https://github.com/hirosenokensan/GLOBIS_Class_Templates)  
-https://github.com/hirosenokensan/GLOBIS_Class_Templates
-
 
 ## Install
 git get clone  
@@ -31,11 +28,14 @@ git get clone
 
 ## Contribution
 git file contribute  
-`git add README.md`  
+`git add hogehoge_file`  
 `git commit -m "I contribute this modified file."`  
 
 git push  
 `git push`  
+
+git pull  
+`git pull`
 
 
 ## Licence
@@ -43,7 +43,7 @@ git push
 
 
 ## Author
-不明点、改善点、ご意見、ご希望(多分あまり聞けませんが)等ございましたら、別途コメントを頂ければ幸いです。  
-Facebook：https://www.facebook.com/hirosenokensan  
-e-mail: mailto:ken-ichi.hirose.2018@globis.ac.jp  
+不明点、改善点、ご意見、ご希望等ございましたら、別途コメントを頂ければ幸いです。  
+Facebook： https://www.facebook.com/hirosenokensan  
+e-mail： mailto:ken-ichi.hirose.2018@globis.ac.jp  
 
