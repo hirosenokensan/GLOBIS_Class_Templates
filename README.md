@@ -11,18 +11,16 @@
 
 
 HOME PAGE
-
  https://github.com/hirosenokensan/GLOBIS_Class_Templates
 
 git
-
  git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git
 
+git contribute
+ git commit -am "I contribute this code."
+
 --
-
 不明点、改善点、ご意見、ご希望(多分あまり聞けませんが)等ございましたら、別途コメントを頂ければ幸いです。
-
 Facebook：https://www.facebook.com/hirosenokensan
-
 e-mail: mailto:ken-ichi.hirose.2018@globis.ac.jp
 
