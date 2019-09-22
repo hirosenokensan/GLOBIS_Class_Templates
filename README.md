@@ -3,31 +3,52 @@
 ひろけん（広瀬健一）＠グロービス経営大学院 2018期東京セクションG MBA履修生＆GYFG(Globis YOKOHAMA First Generation students:横浜一期生)です。
 いつもお世話になっております。
 
+Overview
 
 これは、私がグロービスでの学びと気付きを、効率的に得るために纏めたテンプレート集です。
-
-
 どなたかの一助になれば幸いです。
 
 
-*[HIROKEN GLOBIS Class Templates HOME PAGE](https://github.com/hirosenokensan/GLOBIS_Class_Templates)
+## Description
+
+## Demo
+
+## VS. 
+
+## Requirement
+git pull
+`git pull`
+
+
+## Usage
+[HIROKEN GLOBIS Class Templates HOME PAGE](https://github.com/hirosenokensan/GLOBIS_Class_Templates)  
  https://github.com/hirosenokensan/GLOBIS_Class_Templates
 
--git get clone
+
+## Install
+git get clone  
 `git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git`
 
--git file contribute
+
+## Contribution
+git file contribute  
 `git add README.md`
 `git commit -m "I contribute this modified file."`
 
--git push
+git push
 `git push`
 
--git pull
-`git pull`
 
---
-不明点、改善点、ご意見、ご希望(多分あまり聞けませんが)等ございましたら、別途コメントを頂ければ幸いです。
-Facebook：https://www.facebook.com/hirosenokensan
-e-mail: mailto:ken-ichi.hirose.2018@globis.ac.jp
+## Licence
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+## Author
+[ひろけん FaceBook](https://www.facebook.com/hirosenokensan)
+[ひろけん e-mail](mailto:ken-ichi.hirose.2018@globis.ac.jp)
+
+--  
+不明点、改善点、ご意見、ご希望(多分あまり聞けませんが)等ございましたら、別途コメントを頂ければ幸いです。  
+Facebook：https://www.facebook.com/hirosenokensan  
+e-mail: mailto:ken-ichi.hirose.2018@globis.ac.jp  
 
