@@ -9,8 +9,7 @@
 
 
 ## Description
-[HIROKEN GLOBIS Class Templates HOME PAGE](https://github.com/hirosenokensan/GLOBIS_Class_Templates)  
-https://github.com/hirosenokensan/GLOBIS_Class_Templates
+[ひろけんテンプレ集](https://github.com/hirosenokensan/GLOBIS_Class_Templates) https://github.com/hirosenokensan/GLOBIS_Class_Templates  
 
 
 ## Demo
@@ -22,19 +21,19 @@ https://github.com/hirosenokensan/GLOBIS_Class_Templates
 ## Usage
 
 ## Install
-git get clone  
+フォルダごと手元に取込む  
 `git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git`
 
 
 ## Contribution
-git file contribute  
+更新したファイルを登録する  
 `git add hogehoge_file`  
 `git commit -m "I contribute this modified file."`  
 
-git push  
+サーバーにアップする  
 `git push`  
 
-git pull  
+サーバの更新内容を反映する
 `git pull`
 
 
