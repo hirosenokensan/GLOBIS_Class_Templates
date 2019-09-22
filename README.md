@@ -10,21 +10,21 @@
 どなたかの一助になれば幸いです。
 
 
-HOME PAGE
- https://github.com/hirosenokensan/GLOBIS_Class_Templates
+[HIROKEN GLOBIS Class Templates HOME PAGE]
+ (https://github.com/hirosenokensan/GLOBIS_Class_Templates)
 
 git get clone
- git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git
+`git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git`
 
 git file contribute
- git add README.md
- git commit -m "I contribute this modified file."
+`git add README.md`
+`git commit -m "I contribute this modified file."`
 
 git push
- git push
+`git push`
 
 git pull
- git pull
+`git pull`
 
 --
 不明点、改善点、ご意見、ご希望(多分あまり聞けませんが)等ございましたら、別途コメントを頂ければ幸いです。
