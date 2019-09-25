@@ -1,9 +1,11 @@
 GLOBIS_DayX勉強会
 #
 # $Header: GLOBIS_DayX-Study_Meeting.txt $
+#           https://github.com/hirosenokensan/GLOBIS_Class_Templates
 #
-# (C) 2017-2019 HIROSE Ken-ichi. Licensed under CC BY-SA 4.0.
-#             https://creativecommons.org/licenses/by-sa/4.0/
+# (C) 2017-2019 HIROSE Ken-ichi (ken-ichi.hirose.2018@globis.ac.jp).
+#                                       Licensed under CC BY-SA 4.0.
+#                    https://creativecommons.org/licenses/by-sa/4.0/
 #
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
 
