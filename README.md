@@ -21,11 +21,21 @@
 ## Usage
 
 ## Install
+Web経由でも、まとめて取得できます！
+https://github.com/hirosenokensan/GLOBIS_Class_Templates/archive/master.zip
+
+or
+
 フォルダごと手元に取込む  
 `git clone git@github.com:hirosenokensan/GLOBIS_Class_Templates.git`
 
 
 ## Contribution
+Web経由でも、あなたの改善点を貢献いただけます！  
+https://github.com/hirosenokensan/GLOBIS_Class_Templates/upload/master
+
+or
+
 更新したファイルを登録する  
 `git add hogehoge_file`  
 `git commit -m "I modify hoge function and sentence."`  
