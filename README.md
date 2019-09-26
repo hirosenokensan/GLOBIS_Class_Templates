@@ -9,7 +9,7 @@
 
 
 ## Description
-[ひろけんグロビテンプレ集](https://github.com/hirosenokensan/GLOBIS_Class_Templates) <https://github.com/hirosenokensan/GLOBIS_Class_Templates>  
+[ひろけんグロビテンプレ集](https://github.com/hirosenokensan/GLOBIS_Class_Templates)  https://github.com/hirosenokensan/GLOBIS_Class_Templates  
 
 
 ## Demo
@@ -21,7 +21,7 @@
 ## Usage
 
 ## Install
-Web経由でも、まとめて取得できます！
+Web経由でも、まとめて取得できます！  
 https://github.com/hirosenokensan/GLOBIS_Class_Templates/archive/master.zip
 
 or
@@ -53,6 +53,6 @@ or
 
 ## Author
 不明点、改善点、ご意見、ご希望等ございましたら、別途コメントを頂ければ幸いです。  
-[ひろけんFacebook](https://www.facebook.com/hirosenokensan) <https://www.facebook.com/hirosenokensan>  
-[ひろけんメール](mailto:ken-ichi.hirose.2018@globis.ac.jp) <ken-ichi.hirose.2018@globis.ac.jp>  
+[ひろけんFacebook](https://www.facebook.com/hirosenokensan)  https://www.facebook.com/hirosenokensan  
+[ひろけんメール](mailto:ken-ichi.hirose.2018@globis.ac.jp)  ken-ichi.hirose.2018@globis.ac.jp  
 
