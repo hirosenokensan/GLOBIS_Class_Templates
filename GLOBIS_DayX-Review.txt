@@ -1,12 +1,12 @@
 GLOBIS_DayX振り返り
 #
 # $Header: GLOBIS_DayX-Review.txt $
-#           https://github.com/hirosenokensan/GLOBIS_Class_Templates
+#       https://github.com/hirosenokensan/GLOBIS_Class_Templates
 #
-# (C) 2017-2019 HIROSE Ken-ichi (ken-ichi.hirose.2018@globis.ac.jp).
-#                                       Licensed under CC BY-SA 4.0.
-#                    https://creativecommons.org/licenses/by-sa/4.0/
-#
+#(C)2017-2019 HIROSE Ken-ichi(ken-ichi.hirose.2018@globis.ac.jp)
+#                                   Licensed under CC BY-SA 4.0.
+#                https://creativecommons.org/licenses/by-sa/4.0/
+
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
 ＃　振り返りは、講義中での自分なりのラーニングポイントを説明する。
 ＃　考え、発想とは、基本的に連想ゲーム。何を考えて、そこから何を思い浮かべて、どの様に思考を広げるか？

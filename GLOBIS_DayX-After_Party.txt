@@ -1,13 +1,14 @@
 GLOBIS_DayX懇親会
 #
 # $Header: GLOBIS_DayX-After_Party.txt $
-#           https://github.com/hirosenokensan/GLOBIS_Class_Templates
+#       https://github.com/hirosenokensan/GLOBIS_Class_Templates
 #
-# (C) 2017-2019 HIROSE Ken-ichi (ken-ichi.hirose.2018@globis.ac.jp).
-#                                       Licensed under CC BY-SA 4.0.
-#                    https://creativecommons.org/licenses/by-sa/4.0/
+#(C)2017-2019 HIROSE Ken-ichi(ken-ichi.hirose.2018@globis.ac.jp)
+#                                   Licensed under CC BY-SA 4.0.
+#                https://creativecommons.org/licenses/by-sa/4.0/
 #
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
+■Discussion Boardの「勉強会/懇親会等」へ投稿
 
 【XXX_DayX懇親会】7/29 22:15〜
 
@@ -27,28 +28,24 @@ GLOBIS_DayX懇親会
 つきましては、下記の青枠の中の「参加/不参加/保留」を選択後、その下の青いボタン「回答をする」をクリックして、参加可否をご入力頂きたく宜しくお願い致します。
 
 
-
 以上、宜しくお願い致します。
 
-
-
 ----------------------------+
+■Discussion Boardの「ディスカッション」にも展開
 
 【XXX_DayX懇親会】7/29 22:15〜
 
 お疲れ様です。早速ですがDay2後に是非懇親を深めさせていただきたく、ご参加いただける方を募らせていただければ幸いです ^^)
 
 ご検討いただける方は、下記にてポチって頂ければ幸いです。
-https://my.globis.ac.jp/mypage/menu
+https://my.globis.ac.jp/mypage/menu?・・・
 
 
 以上、宜しくお願い致します。
 
-
-
 ----------------------------+
+■開催場所候補一覧
 https://gms.globis.co.jp/tokyo/info.html
-
 
 開催場所：中華料理 上宴<https://tabelog.com/tokyo/A1308/A130803/13196152/>
 TEL	：03-5212-2878
