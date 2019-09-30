@@ -15,11 +15,19 @@ https://github.com/hirosenokensan/GLOBIS_Class_Templates
 
 ## Demo
 
+TBD
+
 ## VS. 
+
+TBD
 
 ## Requirement
 
+TBD
+
 ## Usage
+
+TBD
 
 ## Install
 Web経由で、まとめて取得できます！  
