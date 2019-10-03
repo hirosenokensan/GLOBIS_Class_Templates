@@ -1,4 +1,4 @@
-GLOBIS_DayX懇親会
+GLOBIS_DayX-懇親会(案内)
 #
 # $Header: GLOBIS_DayX-After_Party.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates

@@ -1,4 +1,4 @@
-GLOBIS_DayX勉強会
+GLOBIS_DayX-勉強会(案内)
 #
 # $Header: GLOBIS_DayX-Study_Meeting.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates

@@ -1,4 +1,4 @@
-GLOBIS_DayXアサインメント
+GLOBIS_DayX-アサインメント
 #
 # $Header: GLOBIS_DayX-Assignments.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates

@@ -1,4 +1,4 @@
-GLOBIS_DayXケース分析及び予習(ひろけん予習テンプレ)
+GLOBIS_DayX-ケース分析及び予習(ひろけん予習テンプレ)
 #
 # $Header: GLOBIS_DayX-Case_Analyze_and_Prepare.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates

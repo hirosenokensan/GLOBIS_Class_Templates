@@ -1,4 +1,4 @@
-GLOBIS_DayX振り返り
+GLOBIS_DayX-振り返り
 #
 # $Header: GLOBIS_DayX-Review.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates
