@@ -57,6 +57,7 @@ GLOBIS_DayX-ケース分析及び予習(ひろけん予習テンプレ)
 ＃・傾向とは、時系列の比較で、概ね過去から現在(ある時点)までの動き(変化)の整理
 ＃・動向とは、時系列の比較で、現在(ある時点)から将来の動き(変化)の予測
 ＃・データや数値は必ずExcel化してグラフにすることグラフは比較、分析に最適！違う視点で見ることが可能！
+＃　課題に取組む流れ
 ＃　①ノーヒントで妄想枠組＆妄想結論(妄想仮説：考えるとっかかり、楔を打つ)
 ＃　②概要を確認して、全体を俯瞰する(抽象、鳥の目、イシューの起点を確認)
 ＃　③一通り目を通して、ざっくり枠組＆ざっくり結論(ざっくり仮説：広げて見直して起点を置き直す)
@@ -101,7 +102,8 @@ GLOBIS_DayX-ケース分析及び予習(ひろけん予習テンプレ)
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
 ■学習範囲と必要時間【重要】(計画をする為に、ある程度の目安を算出する)
-・メインリーディング＜＞
+・メインリーディング＜＞
+・サイドリーディング資料＜＞
 ●課題1.
 ●課題2.
 ●課題3.
@@ -109,7 +111,6 @@ GLOBIS_DayX-ケース分析及び予習(ひろけん予習テンプレ)
 ●課題5.
 ●課題6.
 ・提出課題：
-・サイドリーディング資料＜＞
 ・本文理解(ページ)：P1〜Pxx=x*5=xx0min
 ・添付理解(ページ)：Pxx〜Pxx=x*5=xx0min
 ・資料理解(ページ)：P1〜Pxx=x*5=xx0min
@@ -721,7 +722,7 @@ P.x:
 ・効率性分析：総資産回転率、総資産回転期間、売上債権回転、売上債権回転期間、棚卸資産回転率、棚卸資産回転期間、仕入債務回転率、仕入債務回転期間
 ・安全性分析：財務レバレッジ、自己資本比率、流動比率、当座比率、固定比率、固定長期適合率、手元流動性、手元流動性比率、インタレストカバレッジレシオ
 ・成長性分析：売上高成長率、n年間の平均売上高成長率(CAGR)、総資産成長率
--指標-
+-指標-(各指標の算出式と、取りうる値と平均値、大きくなると何を意味し、小さくなると何を意味するか)
 ・売上高成長率：(当年度売上高-前年度売上高)/前年度売上高
 ・n年間の平均売上高成長率(CAGR)：(当年度売上高/n年前の売上高)^1/n-1
 ・総資産成長率：(当年度資産合計-前年度資産合計)/前年度資産合計
@@ -753,6 +754,10 @@ P.x:
       = (             利益                 +                資産                            ) + (       負債        +純資産)
       = ((     売上     +      費用      ) + (  流動資産      +           固定資産         )) + ((流動負債+固定負債)+純資産)
       = (((客単価+客数) + (変動費+固定費)) + ((現金+売上債権) + (有形固定資産+無形固定資産))) + ((流動負債+固定負債)+純資産)
+・NPV=ΣFCFn/(1+WACC)^n
+・FCF=EBIT*(1-税率)+減価償却費-投資-Δ運転資本
+・WACC=D/(D+E)*rD*(1-税率)+E/(D+E)*rE
+・rE=rF+β(rM-rF)
 -略語-
 ・ROE：Return On Equity＝自己資本利益率
 ・ROA：Return On Assets＝総資産利益率
@@ -761,8 +766,9 @@ P.x:
 ・ROIC：Return On Investment Capital＝投下資本利益率
 ・ROCE：Return On Capital Employed＝使用資本利益率
 ・ROAS：Return On Advertising Spend＝広告費用対効果
-・EBIT：Earnings Before Interest and Taxes＝支払金利前税引前利益
-・EBITDA：Earnings Before Interest Taxes Depreciation and Amortization＝金利・税金・償却前利益
+・EBITDA：Earnings Before Interest Taxes Depreciation and Amortization＝利払前税引前減価償却前利益
+・EBIT：Earnings Before Interest and Taxes＝利払前税引前利益
+・EBT：Earnings Before Taxes＝税引前利益
 ・NOPAT：Net Operating Profit After Taxes＝税引後営業利益
 ・CAPEX：Capital Expenditure＝資本的支出
 ・Dep：Depreciation & amotization＝減価償却費
@@ -772,8 +778,6 @@ P.x:
 ・WC：Working Capital＝運転資本
 ・ΔWC：changes in Working Capital＝増加運転資本
 ・FCF：Free Cash Flow＝フリーキャッシュフロー
-・IC：投下資本
-・CE：使用資本
 ・NPV：Net Present Value＝正味現在価値
 ・IRR：Internal Rate of return＝内部収益率
 ・EPS：Earnings Per Share＝一株当たり当期純利益
@@ -783,6 +787,10 @@ P.x:
 ・WACC：Weighted Average Cost of Capital＝加重平均資本コスト
 ・CAPM：Capital Asset Pricing Model＝資本資産価格モデル
 ・CAGR：Compound Annual Growth Rate＝年平均成長率
+・IC：投下資本
+・CE：使用資本
+・Book Value＝簿価：帳簿価額
+・Market Value＝時価：市場価格
 
 ▼デュポンモデル：
 ・売上利益率(ROS)：当期純利益/売上高
