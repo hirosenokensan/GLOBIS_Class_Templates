@@ -44,60 +44,72 @@ https://my.globis.ac.jp/mypage/menu?・・・
 以上、宜しくお願い致します。
 
 ----------------------------+
-■開催場所候補一覧
+■横浜開催場所候補一覧
 
-開催場所：隆昌酒家 <https://tabelog.com/kanagawa/A1401/A140101/14029061/>
+開催場所：隆昌酒家(りゅうしょうしゅか) <https://tabelog.com/kanagawa/A1401/A140101/14029061/>
 TEL	：045-453-9668
-費用	：？
+費用	：2,980円(税込)
 
-開催場所：ジンジャーズビーチ （Ginger’s Beach）<https://tabelog.com/kanagawa/A1401/A140212/14014714/>
+開催場所：Ginger’s Beach(ジンジャーズビーチ) <https://tabelog.com/kanagawa/A1401/A140212/14014714/>
 TEL	：045-450-7447
-費用	：？
+費用	：5,000円(税込)
 
 開催場所：サイゼリヤ 横浜ベイクォーター前店<https://tabelog.com/kanagawa/A1401/A140101/14030970/>
 TEL	：045-450-7235
-費用	：？
-
-開催場所：フレンチーナ 横浜ベイクォーター店 <https://tabelog.com/kanagawa/A1401/A140101/14053884/>
-TEL	：050-3851-0970
-費用	：？
+費用	：？円(税込/税抜)
 
 開催場所：Aloha Table 横浜ベイクォーター<https://tabelog.com/kanagawa/A1401/A140101/14004615/>
 TEL	：045-450-7356
-費用	：？
+費用	：3,800円 (税抜)
+
+開催場所：CHUTNEY(チャトニー) <https://tabelog.com/kanagawa/A1401/A140101/14074325/>
+TEL	：045-594-8990
+費用	：4,180円(税込)
+
+開催場所：フレンチーナ 横浜ベイクォーター店 <https://tabelog.com/kanagawa/A1401/A140101/14053884/>
+TEL	：050-3851-0970
+費用	：4,200円 (税込)
+
+開催場所：三間堂 <https://tabelog.com/kanagawa/A1401/A140101/14005585/>
+TEL	：0454405768
+費用	：3,500円 (税込)
 
 開催場所：キリンシティプラス 横浜ベイクォーター店<https://r.gnavi.co.jp/89fcrfvd0000/>
 TEL	：045-440-3251
-費用	：？
+費用	：4,000円(税込)
 
-開催場所：3F Le Bar a Vin 52 AZABU TOKYO<https://www.yokohama-bayquarter.com/floor_guide/le-bar-a-vin-52-azabu-tokyo/>
+開催場所：バベル ベイサイド キッチン <https://tabelog.com/kanagawa/A1401/A140101/14050209/>
+TEL	：0454401155
+費用	：5,000円 (税込)
+
+開催場所：ル バー ラ ヴァン サンカンドゥ（Le Bar a Vin 52 AZABU TOKYO）<https://tabelog.com/kanagawa/A1401/A140101/14057992/>
 TEL	：045-441-1113
-費用	：？
+費用	：5,000円 (税込)
+
+開催場所：コラボ <https://tabelog.com/kanagawa/A1401/A140101/14074106/>
+TEL	：0456204230
+費用	：4,400円 (税抜)
 
 開催場所：<>
-TEL	：
-費用	：？
+TEL	：045-
+費用	：？円(税込/税抜)
 
-開催場所：<>
-TEL	：
-費用	：？
 
 
 ----------------------------+
-■開催場所候補一覧
-https://gms.globis.co.jp/tokyo/info.html
+■麹町開催場所候補一覧<https://gms.globis.co.jp/tokyo/info.html>
 
 開催場所：中華料理 上宴<https://tabelog.com/tokyo/A1308/A130803/13196152/>
 TEL	：03-5212-2878
-費用	：2,500円？
+費用	：2,500円(税込)グロビコース
 
-開催場所：ベジスタ(Vegestudy) 麹町<https://www.facebook.com/VegeStudy/>※グロービス経営大学院2012期生 国井達也さんのお店
+開催場所：Vegestudy(ベジスタ) 麹町<https://www.facebook.com/VegeStudy/>※グロービス経営大学院2012期生 国井達也さんのお店
 TEL	：080-3737-3206
-費用	：平日税込3,000円、土日税込3,500円。
+費用	：平日税込3,000円、土日税込3,500円
 
 開催場所：Veggie cups<http://veggiecups.info/party-2/>※グロービス経営大学院2012期生 国井達也さんのお店
 TEL	：080-3706-3206
-費用	：平日税込3,000円、土日税込3,500円。
+費用	：平日税込3,000円、土日税込3,500円
 
 開催場所：トラットリア フィオーレ<https://tabelog.com/tokyo/A1308/A130803/13006434/>
 TEL	：03-3264-3928
