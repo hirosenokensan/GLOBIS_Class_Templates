@@ -58,7 +58,7 @@ GLOBIS_DayX-ケース分析及び予習(ひろけん予習テンプレ)
 ＃・動向とは、時系列の比較で、現在(ある時点)から将来の動き(変化)の予測
 ＃・データや数値は必ずExcel化してグラフにすることグラフは比較、分析に最適！違う視点で見ることが可能！
 ＃・財務分析は必ずPL+BS(+CS)+FI一覧を1シートに纏めて、一目瞭然にする！
-＃　課題に取組む流れ
+＃〜課題に取組む流れ〜
 ＃　①ノーヒントで妄想枠組＆妄想結論(妄想仮説：考えるとっかかり、楔を打つ)
 ＃　②概要を確認して、全体を俯瞰する(抽象、鳥の目、イシューの起点を確認)
 ＃　③一通り目を通して、ざっくり枠組＆ざっくり結論(ざっくり仮説：広げて見直して起点を置き直す)
@@ -248,6 +248,7 @@ GLOBIS_DayX-ケース分析及び予習(ひろけん予習テンプレ)
 ▼FSA(Financial Statement Analysis:財務諸表分析)：
 ▼VRIO(Resource Based View:内部資源理論)：ジェイ・B・バーニー氏が提唱した自社の内部資源(ケイパビリティ)≒「事業の強み」の視点で競合優位性を分析
 ▼QCD：製品やサービス等提供価値がある物を比較する場合に使用
+▼SWOT：
 ▼CSFW(Case Stady Framework)：ひろけんオリジナル。主にケースのファクトを整理する為に使用
 
 
@@ -546,7 +547,7 @@ P.x:
 〜ビジネス系の応用フレームワーク〜
 ▼事業分析：ひろけんオリジナル。事業分析の王道
 ・外部環境分析：市場、業界、顧客、競合（3C、市場:PEST/STP/6R、業界:5F/VC、顧客:KBF/DMU、競合:VRIO/VC/4P/QCD）
-・内部環境分析：資源(リソース)、能力(ケイパビリティ)、強み、弱み（資源:VSPRO/7S/PL/BS、能力:VRIO/VC、強み:4P/QCD、弱み:4P/QCD）
+・内部環境分析：資源(リソース:VSPRO/7S/PL/BS)、能力(ケイパビリティ:VRIO/VC)、強み、弱み（SWOT、強み:4P/QCD、弱み:4P/QCD）
 ・成功要因分析：購買決定要因、意思決定者、成功の為の課題抽出(成功要因)
 
 ▼市場分析：ひろけんオリジナル。市場分析の王道
@@ -776,23 +777,39 @@ P.x:
 ・Dep：Depreciation & amotization＝減価償却費
 ・BEP：Break Even Point＝損益分岐点
 ・MP：Marginal Profit＝限界利益
-・CCC：Cash Conversion Cycle＝現金循環化日数
 ・WC：Working Capital＝運転資本
 ・ΔWC：changes in Working Capital＝増加運転資本
+・CCC：Cash Conversion Cycle＝現金循環化日数
+・CAGR：Compound Annual Growth Rate＝年平均成長率
 ・FCF：Free Cash Flow＝フリーキャッシュフロー
+・WACC：Weighted Average Cost of Capital＝加重平均資本コスト
 ・NPV：Net Present Value＝正味現在価値
+・APV：adjusted present value＝調整現在価値
+・PV：
+・EV：Enterprise Value＝企業の事業価値
+・Em：
 ・IRR：Internal Rate of return＝内部収益率
 ・EPS：Earnings Per Share＝一株当たり当期純利益
 ・PER：Price Earnings Ratio＝株価収益率
 ・BPS：Book-value Per Share＝1株当たり純資産
 ・PBR：Price Book-value Ratio＝株価純資産倍率
-・WACC：Weighted Average Cost of Capital＝加重平均資本コスト
 ・CAPM：Capital Asset Pricing Model＝資本資産価格モデル
-・CAGR：Compound Annual Growth Rate＝年平均成長率
 ・IC：投下資本
 ・CE：使用資本
 ・Book Value＝簿価：帳簿価額
 ・Market Value＝時価：市場価格
+・rD：有利子負債コスト
+・rE：株主コスト
+・rF：リスクフリーレート
+・rM：
+・rM+rF：マーケットリスクプレミアム
+・βAU：
+・βAL：
+・βEU：
+・βEL：
+・D/E：D/Eレシオ
+・D/(D+E)：負債比率
+・E/(D+E)：株主資本比率
 
 ▼デュポンモデル：
 ・売上利益率(ROS)：当期純利益/売上高
