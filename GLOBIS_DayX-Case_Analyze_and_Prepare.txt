@@ -758,10 +758,10 @@ P.x:
       = (             利益                 +                資産                            ) + (       負債        +純資産)
       = ((     売上     +      費用      ) + (  流動資産      +           固定資産         )) + ((流動負債+固定負債)+純資産)
       = (((客単価+客数) + (変動費+固定費)) + ((現金+売上債権) + (有形固定資産+無形固定資産))) + ((流動負債+固定負債)+純資産)
-・NPV=ΣFCFn/(1+WACC)^n-FCF0
 ・FCF=EBIT*(1-税率)+減価償却費-投資-Δ運転資本
-・WACC=D/(D+E)*rD*(1-税率)+E/(D+E)*rE
 ・rE=rF+β(rM-rF)
+・WACC=D/(D+E)*rD*(1-税率)+E/(D+E)*rE
+・NPV=ΣFCFn/(1+WACC)^n-FCF0
 -略語-
 ・ROE：Return On Equity＝自己資本利益率
 ・ROA：Return On Assets＝総資産利益率
@@ -771,7 +771,7 @@ P.x:
 ・ROCE：Return On Capital Employed＝使用資本利益率
 ・ROAS：Return On Advertising Spend＝広告費用対効果
 ・EBITDA：Earnings Before Interest Taxes Depreciation and Amortization＝利払前税引前減価償却前利益
-・EBIT：Earnings Before Interest and Taxes＝利払前税引前利益
+・EBIT：Earnings Before Interest and Taxes＝利払前税引前利益＝営業利益
 ・EBT：Earnings Before Taxes＝税引前利益
 ・NOPAT：Net Operating Profit After Taxes＝税引後営業利益
 ・CAPEX：Capital Expenditure＝資本的支出
