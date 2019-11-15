@@ -785,10 +785,9 @@ P.x:
 ・FCF：Free Cash Flow＝フリーキャッシュフロー
 ・WACC：Weighted Average Cost of Capital＝加重平均資本コスト
 ・NPV：Net Present Value＝正味現在価値
-・APV：adjusted present value＝調整現在価値
-・PV：
+・APV：Adjusted Present Value＝調整現在価値
+・PV：Present Value＝現在価値
 ・EV：Enterprise Value＝企業の事業価値
-・Em：
 ・IRR：Internal Rate of return＝内部収益率
 ・EPS：Earnings Per Share＝一株当たり当期純利益
 ・PER：Price Earnings Ratio＝株価収益率
@@ -800,14 +799,16 @@ P.x:
 ・Book Value＝簿価：帳簿価額
 ・Market Value＝時価：市場価格
 ・rD：有利子負債コスト
-・rE：株主コスト
+・rE：株主コスト≒期待リターン(期待収益率)≒CAPM
 ・rF：リスクフリーレート
-・rM：
+・rM：マーケットポートフォーリオ
 ・rM+rF：マーケットリスクプレミアム
-・βAU：
-・βAL：
-・βEU：
-・βEL：
+・rP：マーケットリスクプレミアム
+・β：市場リスク敏感度指標
+・βAL：Levered Asset β＝有利子負債がある資産β
+・βEL：Levered Equity β＝有利子負債がある株式β
+・βAU：Unlevered Asset β＝有利子負債が無い資産β
+・βEU：Unlevered Equity β＝有利子負債が無い株式β
 ・D/E：D/Eレシオ
 ・D/(D+E)：負債比率
 ・E/(D+E)：株主資本比率
