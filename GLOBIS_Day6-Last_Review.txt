@@ -1,4 +1,4 @@
-GLOBIS_Day6総纏め振り返り
+GLOBIS_Day6-総纏め振り返り
 #
 # $Header: GLOBIS_Day6-Last_Review.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates

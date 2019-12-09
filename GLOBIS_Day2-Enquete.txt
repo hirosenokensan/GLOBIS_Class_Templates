@@ -1,4 +1,4 @@
-GLOBIS_Day2アンケート
+GLOBIS_Day2-アンケート
 #
 # $Header: GLOBIS_Day2-Enquete.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates

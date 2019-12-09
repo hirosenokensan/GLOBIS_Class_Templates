@@ -1,4 +1,4 @@
-GLOBIS_Day6振り返りアサインメント
+GLOBIS_Day6-振り返りアサインメント
 #
 # $Header: GLOBIS_Day6-Last_Assignments.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates

@@ -1,4 +1,4 @@
-GLOBIS_Day0自己紹介等
+GLOBIS_Day0-自己紹介等
 #
 # $Header: GLOBIS_Day0-Self_Introduction.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates
