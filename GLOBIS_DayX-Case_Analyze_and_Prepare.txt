@@ -1,4 +1,4 @@
-GLOBIS_DayX-�P�[�X���͋y�ї\�K(�Ђ낯��e���v���[�g)
+GLOBIS_DayX-ケース分析及び予習(ひろけんテンプレート)
 #
 # $Header: GLOBIS_DayX-Case_Analyze_and_Prepare.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates
@@ -27,7 +27,7 @@ GLOBIS_DayX-�P�[�X���͋y�ї\�K(�Ђ낯��e���v���[�g)
 #  ShareAlike - If you remix, transform, or build upon the 
 #               material, you must distribute your contributions 
 #               under the same license as the original.
-#  No additional restrictions �\ You may not apply legal terms or
+#  No additional restrictions — You may not apply legal terms or
 #                               technological measures that 
 #                               legally restrict others from 
 #                               doing anything the license 
@@ -42,1345 +42,1345 @@ GLOBIS_DayX-�P�[�X���͋y�ї\�K(�Ђ낯��e���v���[�g)
 #  limit how you use the material.
 #
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-�������|�[�g���ōł��d�v�Ȏ��́A�����ōl���������u�����Ȃ�̌��_�v���ӌ�(�咣�ƍ���)�Ƃ��Đ������鎖��
-���E������CREC�ŁI�₢(�C�V���[)�ɑ΂��铚��(���_)���ӌ�(�咣�ƍ���)��񋓂��ăs���~�b�h�X�g���N�`���[
-���E��{�́u�ł��A�܂����v�ŏ����B���̂Ȃ�ݖ₪�u�ł��A�܂����v������B
-���E�W����15�A45�A90���̃��Y���B45���őł��؂��ďł炵���ʂ�_���A15��������������葼�̎������Ɨǂ�
-���EMac��PDF�̈��k�̓v���r���[�Ńt�@�C���������o�����t�H�[�}�b�g:PDF�AQuartz�t�B���^:Reduce File Size
-���E�P���ԑO���ڏ��ɁA���ہ̋�́A���̖ځ̒��̖ځA�C�V���[��}���������򖖂Ȏ��Ɏ����Ȃ��I�����{
-���E�v�l/�\�z/�L�����鎞�͎菑���B����/�Z��/�������鎞��PC�B�׋�����Ƃ���Wi-Fi���I�t�ɁI
-���E�l�����瓚���͏o�邪�A�Y��ł������͏o�Ȃ��I�Y��ł��鎩�����@�m���ċx�e
-���E�x�e���͒P���ȍ��(�y���񂵁H�h��G�H�w�V�сH��)������Ɨǂ�
-���E�����͉ۑ�/�_�_/�C�V���[�Ɋ֘A����P���A�z/���肵�āA���̒P��Łu�����v������
-���E���͂Ƃ́A�������āA�؂蕪���čl���鎖�B�ǂ��،��͍ł����Ϗ���(���G���g���s�[)������؂��
-���E�؂������Ɉ�ԏ��ʂ�����ӏ��ŕ���(����)�ł���؂������ԗǂ����g�g�݂̐؂���̉s���I
-���E���ʂƂ́A�N���肻�����Ȃ����Ƃ��������Ɓ������̑傫�������ʂ������ƍl����
-���E��`�Ƃ��Ă�-log2 P(x)�BP(x)�͎��ۂ��N����m���B�}�C�i�X�͊m�������������̂قǏ��Ƃ��Ă͊�����
-���E���G���g���s�[(���Ϗ���)�Ƃ́A�G���g���s�[�Ƃ͗��G���A�s�K�����A�B�������Ƃ������T�O���w��
-���E�g�g�݂Ƃ́A�T�˃t���[�����[�N�ƍl���ėǂ��B�O������͖��m�����āA�v����ɁH���ɂ́H�Ő��荇�킹
-���E�����Ƃ́A����(����)���Ċe�v�f���̈Ⴂ�𖾊m�����邱��
-���E�X���Ƃ́A���n��̔�r�ŁA�T�ˉߋ����猻��(���鎞�_)�܂ł̓���(�ω�)�̐���
-���E�����Ƃ́A���n��̔�r�ŁA����(���鎞�_)���珫���̓���(�ω�)�̗\��
-���E�f�[�^�␔�l�͕K��Excel�����ăO���t�ɂ��邱�ƃO���t�͔�r�A���͂ɍœK�I�Ⴄ���_�Ō��邱�Ƃ��\�I
-���E�������͕͂K��PL+BS(+CS)+FI�ꗗ��1�V�[�g�ɓZ�߂āA��ڗđR�ɂ���I
-���EKSF�Ƃ͗v����ɂ��̃r�W�l�X�̖{����@�������āA���̑ł����@���_���I�Ɍ��؁A�������邩�ƌ�������
-���E�}�Ŏ����ꍇ�A���̂V��ނ̂ǂꂩ�ɓ��Ă͂܂�
-���E����(�֌W)�A�c���[(�\��)�A�[�x(�v��)�A��r(�ʒu)�A�i��(�菇)�A�d�Ȃ�(�R���Z�v�g)�A�s���~�b�h(���j)
-���`�ۑ�Ɏ�g�ޗ���`
-���@�@�m�[�q���g�Ŗϑz�g�g���ϑz���_(�ϑz�����F�l����Ƃ�������A����ł�)
-���@�A�T�v���m�F���āA�S�̂���Ղ���(���ہA���̖ځA�C�V���[�̋N�_���m�F)
-���@�B��ʂ�ڂ�ʂ��āA��������g�g���������茋�_(�������艼���F�L���Č������ċN�_��u������)
-���@�C��������ǂݍ���ŁA��������̌��؁���̓I�g�g����̓I���_(��̓I�����F�V���ȋN�_�Ő[�@�肷��)
-���@�D�t�@�N�g�𐮗����āA��̓I���؁��s���~�b�h�X�g���N�`���\�z�����_����(�������؂��Č��_�����)
-�����N���V���Ƃ͑��֊֌W�����ʊ֌W�Ő������邱�ƁB���ւ͋A�[�I�A�v���[�`�A���ʂ͉�㈓I�A�v���[�`��
-�����f�B�[�v���[�j���O�Ƃ͑��֊֌W�ŁA�l�Ԃł��������B�v���O���~���O�͈��ʊ֌W�ŁA�l�Ԃł����_����
+＃★レポート等で最も重要な事は、自分で考え抜いた「自分なりの結論」を意見(主張と根拠)として説明する事★
+＃・説明はCRECで！問い(イシュー)に対する答え(結論)を意見(主張と根拠)を列挙してピラミッドストラクチャー
+＃・基本は「です、ます調」で書く。何故なら設問が「です、ます調」だから。
+＃・集中は15、45、90分のリズム。45分で打ち切って焦らし効果を狙い、15分程歩き回ったり他の事をやると良い
+＃・MacでPDFの圧縮はプレビューでファイル→書き出す→フォーマット:PDF、Quartzフィルタ:Reduce File Size
+＃・１時間前後を目処に、抽象⇔具体、鳥の目⇔虫の目、イシューを抑え直す⇔瑣末な事に囚われない！を実施
+＃・思考/構想/記憶する時は手書き。調査/纏め/清書する時はPC。勉強するときはWi-Fiをオフに！
+＃・考えたら答えは出るが、悩んでも答えは出ない！悩んでいる自分を察知して休憩
+＃・休憩中は単調な作業(ペン回し？塗り絵？指遊び？等)をすると良い
+＃・調査は課題/論点/イシューに関連する単語を連想/特定して、その単語で「検索」をする
+＃・分析とは、分解して、切り分けて考える事。良い切口は最も平均情報量(情報エントロピー)が減る切り方
+＃・切った時に一番情報量が減る箇所で分解(分類)できる切り方が一番良い≒枠組みの切り口の鋭さ！
+＃・情報量とは、起こりそうもないことが多いこと≒驚きの大きさ≒情報量が多いと考える
+＃・定義としては-log2 P(x)。P(x)は事象が起こる確率。マイナスは確率が小さいものほど情報としては嬉しい
+＃・情報エントロピー(平均情報量)とは、エントロピーとは乱雑さ、不規則さ、曖昧さ等といった概念を指す
+＃・枠組みとは、概ねフレームワークと考えて良い。前提条件は明確化して、要するに？他には？で摺り合わせ
+＃・特徴とは、分析(分解)して各要素毎の違いを明確化すること
+＃・傾向とは、時系列の比較で、概ね過去から現在(ある時点)までの動き(変化)の整理
+＃・動向とは、時系列の比較で、現在(ある時点)から将来の動き(変化)の予測
+＃・データや数値は必ずExcel化してグラフにすることグラフは比較、分析に最適！違う視点で見ることが可能！
+＃・財務分析は必ずPL+BS(+CS)+FI一覧を1シートに纏めて、一目瞭然にする！
+＃・KSFとは要するにそのビジネスの本質を如何捉えて、その打ち手を如何論理的に検証、説明するかと言うこと
+＃・図で示す場合、次の７種類のどれかに当てはまる
+＃・交換(関係)、ツリー(構造)、深堀(要因)、比較(位置)、段取(手順)、重なり(コンセプト)、ピラミッド(方針)
+＃～課題に取組む流れ～
+＃　①ノーヒントで妄想枠組＆妄想結論(妄想仮説：考えるとっかかり、楔を打つ)
+＃　②概要を確認して、全体を俯瞰する(抽象、鳥の目、イシューの起点を確認)
+＃　③一通り目を通して、ざっくり枠組＆ざっくり結論(ざっくり仮説：広げて見直して起点を置き直す)
+＃　④じっくり読み込んで、ざっくりの検証＆具体的枠組＆具体的結論(具体的仮説：新たな起点で深掘りする)
+＃　⑤ファクトを整理して、具体的検証＆ピラミッドストラクチャ構築＆結論説明(仮説検証して結論を説明)
+＃★クリシンとは相関関係を因果関係で説明すること。相関は帰納的アプローチ、因果は演繹的アプローチ★
+＃★ディープラーニングとは相関関係で、人間でいう直感。プログラミングは因果関係で、人間でいう論理★
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-�P�Q�R�S�T�U�V�W�X�O�P�Q�R�S�T�U�V�W�X�O�P�Q�R�S�T�U�V�W�X�O�P�Q�R�S�T�U�V�W�X�O�P�Q�R�S�T�U�V�W�X�O�P�Q�R�S�T�U�V�W�X�O�P�Q�R�S�T�U�V�W�X
+１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���O��̐U��Ԃ�̊o��(�O��̐U��Ԃ���������߂�)
-�E
+■前回の振り返りの覚書(前回の振り返りを書き留める)
+・
 
 
-���u�`�̒��ł��鎿��ADiscussion Board�ł��鎿��̊o��(��ʂ�ǂ�ŉ���Ȃ��P��A�l���������������߂�)
-�E
+■講義の中でする質問、Discussion Boardでする質問の覚書(一通り読んで解らない単語、考え方等を書き留める)
+・
 
 
-�����ނɑ΂���w�E�A���P�v�]�̊o��(�e�L�X�g��P�[�X�Ɋւ��Č�L�A�s���_�A���P�_���������߂�)
-�EP.x�� �`�`�`�́A�`�`�`�̊ԈႦ�ł́H
+■教材に対する指摘、改善要望の覚書(テキストやケースに関して誤記、不明点、改善点を書き留める)
+・P.xの ～～～は、～～～の間違えでは？
 
 
-
-
-----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-�yDayX�P�[�X�\�K�z�Ђ낯��i�L������j
-
-�Ђ낯��i�L������j���O���[�r�X�o�c��w�@ 2018�������Z�N�V����G MBA���C����GYFG(Globis YOKOHAMA First Generation students:���l�����)�ł��B���������b�ɂȂ��Ă���܂��B
-
-
-���L�ɂăP�[�X�̕��͂���эu�`�̗\�K��v���܂��B
-
-----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���w�K�e�[�}(�V���o�X����]�L���āA���߂Ē��߂Ă݂�)
-�E
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���w�K����ɂ������ċC������_(�u�t����̃R�����g�A�����ǂ���̘A���A�F�l�̒m����)
-�E
+【DayXケース予習】ひろけん（広瀬健一）
+
+ひろけん（広瀬健一）＠グロービス経営大学院 2018期東京セクションG MBA履修生＆GYFG(Globis YOKOHAMA First Generation students:横浜一期生)です。いつもお世話になっております。
+
+
+下記にてケースの分析および講義の予習を致します。
+
+----------------------------+---------------------------------------------+---------------------------+----------------------------------+
+■学習テーマ(シラバスから転記して、改めて眺めてみる)
+・
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���w�K�͈͂ƕK�v���ԁy�d�v�z(�v�������ׂɁA������x�̖ڈ����Z�o����)
-�E���C�����[�f�B���O����
-�E�T�C�h���[�f�B���O����
-���ۑ�1.
-���ۑ�2.
-���ۑ�3.
-���ۑ�4.
-���ۑ�5.
-���ۑ�6.
-�E��o�ۑ�F
-�E���C�����[�f�B���O����
-�E�{������(�y�[�W)�FP1�`Pxx=x*5=xx0min
-�E�Y�t����(�y�[�W)�FPxx�`Pxx=x*5=xx0min
-�E�T�C�h���[�f�B���O����
-�E��������(�y�[�W)�FP1�`Pxx=x*5=xx0min
-�E��������(�ۑ萔)�F1�`x=x*30=x0min
-�E�_�_�l�@(�ۑ萔)�F1�`x=x*30=x0min
-�E�ۑ茟��(�ۑ萔)�F1�`x=x*30=x0min
-�E�����쐬(����)  �F1�`x=x*60=xx0min
+■学習するにあたって気をつける点(講師からのコメント、事務局からの連絡、友人の知見等)
+・
+
+
+----------------------------+---------------------------------------------+---------------------------+----------------------------------+
+■学習範囲と必要時間【重要】(計画をする為に、ある程度の目安を算出する)
+・メインリーディング＜＞
+・サイドリーディング＜＞
+●課題1.
+●課題2.
+●課題3.
+●課題4.
+●課題5.
+●課題6.
+・提出課題：
+・メインリーディング＜＞
+・本文理解(ページ)：P1～Pxx=x*5=xx0min
+・添付理解(ページ)：Pxx～Pxx=x*5=xx0min
+・サイドリーディング＜＞
+・資料理解(ページ)：P1～Pxx=x*5=xx0min
+・仮説検討(課題数)：1～x=x*30=x0min
+・論点考察(課題数)：1～x=x*30=x0min
+・課題検証(課題数)：1～x=x*30=x0min
+・資料作成(枚数)  ：1～x=x*60=xx0min
 ---------------------------------------
                               xx5min
 =xx5/60=5.75H
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���u���X�g���́y�d�v�z(�P�[�X�͓ǂ܂��ɁI������y�ёΏۂ̉ۑ�̊m�F�ƁA����₨�Ă��邩�H���ɓ�����Ηǂ����H���m�[�q���g�Ŗϑz�I�ł��A�o��������̓I�ɏ����Ă݂�)
-�E����
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���s���_�́H(�r�b�N���[�h�A���ۓI�����Ȃ����A�v����ɉ������������̂�)�F
-��
-���A�E�g�v�b�g�́H(��������Ȏ��ɓ�����Ηǂ�)�F
-��
-���C���v�b�g�́H(����ȏ�񂪂���Ηǂ�)�F
-��
-���t���[�����[�N�́H(����Șg�g�݂ōl����Ηǂ�)�F
-��
-���B�ꂽ�O��́H(����ȏ��������肻��)�F
-��
-���C�V���[�́H(�����{���I�ɉ�������ׂ����͂���)�F
-��
+■ブレスト分析【重要】(ケースは読まずに！聴き手及び対象の課題の確認と、何を問おているか？何に答えれば良いか？をノーヒントで妄想！でも、出来る限り具体的に書いてみる)
+・＜＞
+●課題
+●課題
+●課題
+●課題
+●課題
+●課題
+★不明点は？(ビックワード、抽象的すぎないか、要するに何が聞きたいのか)：
+→
+★アウトプットは？(多分こんな事に答えれば良い)：
+→
+★インプットは？(こんな情報があれば良い)：
+→
+★フレームワークは？(こんな枠組みで考えれば良い)：
+→
+★隠れた前提は？(こんな条件がありそう)：
+→
+★イシューは？(多分本質的に解決するべき事はこれ)：
+→
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���T�v�c��(�P�[�X���p�b�ƌ��Ă݂�B�T��1�y�[�W1�i���ڂɓZ�܂��Ă���B��G�芴�H�����o�H��厖�ɏ󋵂�c������)
-�E����
-����(�ǂ�Ȏ���)�F
-��
-���R�R(�ǂ�ȋƊE)�F
-��
-���킽��(�ǂ�Ȋ�ƁA�ǂ�Ȏ���)�F
-��
-�����̑��A��ۓI�ȃL�[���[�h�A�Z���e���X�A�S�̊��F
-��
+■概要把握(ケースをパッと見てみる。概ね1ページ1段落目に纏まっている。手触り感？肌感覚？を大事に状況を把握する)
+・＜＞
+★今(どんな時代)：
+→
+★ココ(どんな業界)：
+→
+★わたし(どんな企業、どんな事業)：
+→
+★その他、印象的なキーワード、センテンス、全体感：
+→
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���q���[���X�e�B�b�N���́y�d�v�z(�P�[�X�ɂ�������ڂ�ʂ��B�ǂ̕ӂɉ��������Ă��邩�c������B�ߖ��ɂǂ�Ȃ��Ƃ������Ă��邩�ꕶ�ŕ\���B�C�ɂȂ�P����������߂�B��ʂ̌X����c������B�S�̂�c�����邽�߂�3�`5���x�̑啪�ނƁA���̒��𒆕��ށA�����ނɕ����č\��������)
-�E����
-�E
-��
-�E
-��
-�E
-��
-�E�Y�t����
-��
-�E�Y�t����
-��
-���s���_�Ɋւ���L�q�͂��������H�������ꂽ���H�F
-��
-���z�肵���t���[�����[�N�̗v�f�͂��������H�C���v�b�g�͑���Ă��邩�H�F
-��
-���ŏI�I�ɉ����������āA�ǂ�Ȏ��ɑ΂��锻�f�����������H�F
-��
-�����f������ׂɉ����K�v���H�F
-��
+■ヒューリスティック分析【重要】(ケースにざっくり目を通す。どの辺に何が書いてあるか把握する。節毎にどんなことが書いてあるか一文で表す。気になる単語を書き留める。定量の傾向を把握する。全体を把握するために3～5個程度の大分類と、その中を中分類、小分類に分けて構造化する)
+・＜＞
+・
+⇒
+・
+⇒
+・
+⇒
+・添付資料
+⇒
+・添付資料
+⇒
+★不明点に関する記述はあったか？解消されたか？：
+→
+★想定したフレームワークの要素はあったか？インプットは足りているか？：
+→
+★最終的に何をしたくて、どんな事に対する判断をしたいか？：
+→
+★判断をする為に何が必要か？：
+→
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���ڍהc��(�P�[�X�ɂ�������ڂ�ʂ��B�i�����A�ߖ��A�͖��ɁA�d�v���Ǝv���ӏ��A�C�ɂȂ�P��Ƀ}�[�J�[�������A���ꂼ�ꉽ�̃t���[�����[�N�́A�ǂ̗v�f�ɓ��Ă͂߂邩���l����B�܂��A�C�Â������A���ۂ̌q����A���ۂ̔w�i�A���ۂ̉e�����A�q����/�w�i/�e������l�����鉼�����ӏ������ŏ����o��)
-�E����
-�E
-��
-��
-��
-��
-��
-��
-�E
-��
-��
-��
-��
-��
-��
-�E�Y�t����
-��
-��
-��
-��
-��
-��
-���ǂ�ȏ󋵁H�F
-��
-���������H�F
-��
-���ǂ�ȉۑ肪���邩�H�F
-��
-���ۑ�ɑ΂��āA�ǂ�ȉ����𗧂Ă��邩�H�F
-��
-�������ɉ����āA�ǂ�ȑ΍􂪍l�����邩�H�F
-��
+■詳細把握(ケースにじっくり目を通す。段落毎、節毎、章毎に、重要だと思う箇所、気になる単語にマーカーを引きつつ、それぞれ何のフレームワークの、どの要素に当てはめるかを考える。また、気づいた事、事象の繋がり、事象の背景、事象の影響等、繋がり/背景/影響から考えられる仮説を箇条書きで書き出す)
+・＜＞
+・
+⇒
+→
+→
+→
+→
+→
+・
+⇒
+→
+→
+→
+→
+→
+・添付資料
+⇒
+→
+→
+→
+→
+→
+★どんな状況？：
+→
+★何が問題？：
+→
+★どんな課題があるか？：
+→
+★課題に対して、どんな仮説を立てられるか？：
+→
+★仮説に沿って、どんな対策が考えられるか？：
+→
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-����ʏ����W�y�d�v�z(�C�ɂȂ�P��A�P�[�X�̒ǉ���Ə��A�P�[�X�̎���w�i�A�P�[�X�̕t�ъ֘A���A����Ȃ������_�A�����Əڂ����m�肽���_�𒲂ׂ�)
-�E����
+■一般情報収集【重要】(気になる単語、ケースの追加企業情報、ケースの時代背景、ケースの付帯関連情報、解らなかった点、もっと詳しく知りたい点を調べる)
+・＜＞
 ----------------------------+---------------------------------------------+
-�E
-��
+・
+→
 ----------------------------+---------------------------------------------+
-�E
-��
+・
+→
 ----------------------------+---------------------------------------------+
-�E
-��
+・
+→
 ----------------------------+---------------------------------------------+
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���t���[�����[�N����(��ɒ萫���́A�ꕔ��ʕ��͂��B�z���C�g�{�[�h�ɓZ�߂�C���[�W�ŁB�K��So What�H�̂����牽�H�A���̓Z�߂ŉ������������́H�𖾊m�ɂ���)
-��3C�F�����͂̉���
-��STP�F
-��6R�F�Z�O�����e�[�V�����ƃ^�[�Q�b�e�B���O���i�邽�߂̎w�W
-��4P�F
-��PEST(�}�N����)�F�R�g���[�����B���Ђ���芪���O�����𕪐͂��A���݂܂��͏����ւ̉e����^���邩�\��
-��5F(5�̗͂ɂ��ƊE������)�F�|�[�^�[�����B�ƊE�̎��v�������߂�5�̋����v������A�ƊE�̍\�����͂������Ȃ�
-��VC(Value Chain:���l�A��)�F
-��KBF�F
-��DMU�F
-��KSF�F
-��VSPRO�F�u�A�[�T�[�ED�E���g���v�ɂ���ĊJ�����ꂽ�t���[�����[�N�ŁA�}�l�W�����g�V�X�e���̗��z�ƌ���𕪐͂���̂ɗL���ȕ��͎�@
-��7S�F
-��FSA(Financial Statement Analysis:�������\����)�F
-��VRIO(Resource Based View:�����������_)�F�W�F�C�EB�E�o�[�j�[�����񏥂������Ђ̓�������(�P�C�p�r���e�B)���u���Ƃ̋��݁v�̎��_�ŋ����D�ʐ��𕪐�
-��QCD�F���i��T�[�r�X���񋟉��l�����镨���r����ꍇ�Ɏg�p
-��SWOT�F
-��CSFW(Case Stady Framework)�F�Ђ낯��I���W�i���B��ɃP�[�X�̃t�@�N�g�𐮗�����ׂɎg�p
+■フレームワーク分析(主に定性分析、一部定量分析も。ホワイトボードに纏めるイメージで。必ずSo What？⇔だから何？、この纏めで何を言いたいの？を明確にする)
+▼3C：環境分析の王道
+▼STP：
+▼6R：セグメンテーションとターゲッティングを絞るための指標
+▼4P：
+▼PEST(マクロ環境)：コトラー教授。自社を取り巻く外部環境を分析し、現在または将来への影響を与えるか予測
+▼5F(5つの力による業界環境分析)：ポーター教授。業界の収益性を決める5つの競争要因から、業界の構造分析をおこなう
+▼VC(Value Chain:価値連鎖)：
+▼KBF：
+▼DMU：
+▼KSF：
+▼VSPRO：「アーサー・D・リトル」によって開発されたフレームワークで、マネジメントシステムの理想と現状を分析するのに有効な分析手法
+▼7S：
+▼FSA(Financial Statement Analysis:財務諸表分析)：
+▼VRIO(Resource Based View:内部資源理論)：ジェイ・B・バーニー氏が提唱した自社の内部資源(ケイパビリティ)≒「事業の強み」の視点で競合優位性を分析
+▼QCD：製品やサービス等提供価値がある物を比較する場合に使用
+▼SWOT：
+▼CSFW(Case Stady Framework)：ひろけんオリジナル。主にケースのファクトを整理する為に使用
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-�����͓Z��(�ۑ�̕��́A�󋵂̔c���A�����A���̎��W�A�t���[�����[�N���͂̌��ʂ�Z�߂�)
-�E����
-������c��(�ǂ̂悤�ȔY�݂�����Ă��邩)�F
-��
-������ׂ��p(�ǂ��Ȃ�Ɗ�������)�F
-��
-���C�V���[�̖��m���F
-��
-�������F
-��
-�������W�F
-��
-����񐮗��F
-��
-����񕪐́F
-��
-������v���F
-��
-������֗^�ҁF
-��
-�������v���F
-��
+■分析纏め(課題の分析、状況の把握、仮説、情報の収集、フレームワーク分析の結果を纏める)
+・＜＞
+▼現状把握(どのような悩みを抱えているか)：
+→
+▼あるべき姿(どうなると嬉しいか)：
+→
+▼イシューの明確化：
+→
+▼仮説：
+→
+▼情報収集：
+→
+▼情報整理：
+→
+▼情報分析：
+→
+★決定要因：
+→
+★決定関与者：
+→
+★成功要因：
+→
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���G���x�[�^�[�s�b�`(���̃P�[�X���ނɁA30�b�`1���ȓ��ň�ەt���āA�����������Ă��炢�A���Ɍq����b�ɓZ�߂���K)
-�E����
-���ǂ�ȃj�[�Y�ɑ΂���r�W�l�X���H(�N�̉���)�F
-��
-����������Ɖ����ǂ����H(�ǂ�ȉ��l��񋟂���)�F
-��
-���ǂ�ȃr�W�������H(����ڎw���Ă���)�F
-��
-���͂݁A�ۑ芴�A�u�F
-��
-�������A���ʉ��v���F
-��
-���s�ꐫ�A���сA�W�]�F
-��
-���R�~�b�g�A�˗��F
-��
+■エレベーターピッチ(このケースを題材に、30秒～1分以内で印象付けて、興味を持ってもらい、次に繋げる話に纏める練習)
+・＜＞
+▼どんなニーズに対するビジネスか？(誰の何に)：
+→
+▼これをやると何が良いか？(どんな価値を提供して)：
+→
+▼どんなビジョンか？(何を目指している)：
+→
+★掴み、課題感、志：
+→
+★特徴、差別化要因：
+→
+★市場性、実績、展望：
+→
+★コミット、依頼：
+→
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���헪�̍���(What?�A���z�ƌ����̃M���b�v�̌����鉻�ƁA���̍�����������l����)
-�E����
-���ړI�𖾊m�ɂ���F
-��
-�����B�W����(�Ȃɂ�ڎw����)�F
-��
-���~�b�V����(�ǂ�����Ėڎw����)�F
-��
-�����\�[�X(�K�v�Ȏ���)�F
-��
-���P�C�p�r���e�B(�K�v�Ȕ\��)�F
-��
-���\�����ƗD�揇�ʕt���F
-��
+■戦略の策定(What?、理想と現実のギャップの見える化と、その差を方向性を考える)
+・＜＞
+▼目的を明確にする：
+→
+▼ヴィジョン(なにを目指すか)：
+→
+▼ミッション(どうやって目指すか)：
+→
+▼リソース(必要な資源)：
+→
+▼ケイパビリティ(必要な能力)：
+→
+★構造化と優先順位付け：
+→
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-����p�A�{��A�΍�A�v��̗���(How to?�A���z�ƌ����̃M���b�v�𖄂߂�ׂ̎{����l����)
-�E����
-����i�𖾊m�ɂ���F
-��
-���萫�I�ȍ��فF
-��
-����ʓI�ȍ��فF
-��
-�������v���̎������@�������F
-��
-���萫�I�ȖڕW�̐ݒ�F
-��
-����ʓI�ȖڕW�l�̐ݒ�F
-��
-���ڕW�����܂ł̃X�e�b�v�Ƃ��ׂ������A�I�y���[�V�����̖��m���F
-��
-
-
-----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���k���ȉ����ƌ��؁y�d�v�z(���_�Ɏ���܂ł̉��̐������A�t�@�N�g�ƃt���[�����[�N�Ō��؁A�ӏ�����)
-�E����
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���_�_�F
-��
-�������F
-��
-���咣�F
-��
-�����_�F
-��
-
-----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-���ۑ�̉�(���͂������͌���ŋL�q)
-�E����
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���ۑ�
-���񓚁F
-��
+■戦術、施策、対策、計画の立案(How to?、理想と現実のギャップを埋める為の施策を考える)
+・＜＞
+▼手段を明確にする：
+→
+▼定性的な差異：
+→
+▼定量的な差異：
+→
+▼成功要因の実現方法を検討：
+→
+▼定性的な目標の設定：
+→
+▼定量的な目標値の設定：
+→
+★目標実現までのステップとやるべき事等、オペレーションの明確化：
+→
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-�����|�[�g�\������(����̃y���\�i��z�肵�āA�������������߂�B�������_�ɂ��邩�H�ǂ�ȃX�g�[���[�œZ�߂邩�H�ǂ�ȃ|�C���g���K�v���H�L�[���[�h�̗񋓁j
-�E����
-���O�����𕪐͂���t���[�����[�N�i3C�A�s��:PEST/STP/6R�A�ƊE:5F/VC�A�ڋq:KBF/DMU�A����:VRIO/VC/4P/QCD�j�̑I��ƃt�@�N�g�̐����F
-��
-��KBF�����DMU��VC����KSF�����F
-��
-���������ɂ��ĕ��͂���t���[�����[�N�i����:VSPRO/7S/PL/BS�A�\��:VRIO/VC�A����:4P/QCD�A���:4P/QCD�ASWOT�j��I��ƃt�@�N�g�̐����F
-��
-��KSF�Ǝ��Ђ̔�r�A���͂��s���M���b�v�������鉻�F
-��
-�����Ɛ��s�ɂ�������_�y�ьo�c�ۑ�̓���F
-��
-���ۑ���������邽�߂̑ł���ɂ��ĉ����𗧂Ă�F
-��
-���ł���ɂ��Ē�ʓI�ɕ]���F
-��
-�����s����{������肵�ċ�̓I�ȃ}�C���X�g�[����KPI����ݒ�F
-��
-������̓W�]�ɂ��Ă��\���A�����F
-��
+■緻密な仮説と検証【重要】(結論に至るまでの仮の説明を、ファクトとフレームワークで検証、箇条書き)
+・＜＞
+●課題
+●課題
+●課題
+●課題
+●課題
+●課題
+★論点：
+→
+★根拠：
+→
+★主張：
+→
+★結論：
+→
+
+----------------------------+---------------------------------------------+---------------------------+----------------------------------+
+■課題の回答(文章もしくは口語で記述)
+・＜＞
+●課題
+●課題
+●課題
+●課題
+●課題
+●課題
+★回答：
+→
 
 
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-�����|�[�g(�Ȍ��ɁA�O��̌q������ӎ����āA��ۂɎc��l�ɓZ�߂�BWord��2�i�g�ŁAPowerPoint�͂��̃y�[�W�ŉ���`�������̂����m��)
+■レポート構成検討(相手のペルソナを想定して、何を書くか決める。何を結論にするか？どんなストーリーで纏めるか？どんなポイントが必要か？キーワードの列挙）
+・＜＞
+▼外部環境を分析するフレームワーク（3C、市場:PEST/STP/6R、業界:5F/VC、顧客:KBF/DMU、競合:VRIO/VC/4P/QCD）の選定とファクトの整理：
+→
+●KBFおよびDMUとVCからKSFを特定：
+→
+▼内部環境について分析するフレームワーク（資源:VSPRO/7S/PL/BS、能力:VRIO/VC、強み:4P/QCD、弱み:4P/QCD、SWOT）を選定とファクトの整理：
+→
+▼KSFと自社の比較、分析を行いギャップを見える化：
+→
+●事業遂行における問題点及び経営課題の特定：
+→
+▲課題を解決するための打ち手について仮説を立てる：
+→
+◆打ち手について定量的に評価：
+→
+★実行する施策を決定して具体的なマイルストーンとKPI等を設定：
+→
+○今後の展望についても予測、検討：
+→
+
+
+----------------------------+---------------------------------------------+---------------------------+----------------------------------+
+■レポート(簡潔に、前後の繋がりを意識して、印象に残る様に纏める。Wordは2段組で、PowerPointはそのページで何を伝えたいのか明確に)
 ----------------------------+---------------------------------------------+
-0.�G�O�[�N�e�B�u�T�}��(�X�g�[���[������CREC�œZ�߂�)
+0.エグゼクティブサマリ(ストーリーを元にCRECで纏める)
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-1.�O�������́i�s��A�ƊE�A�ڋq�A�����j
-���O�����𕪐͂���t���[�����[�N�i3C�A�s��:PEST/STP/6R�A�ƊE:5F/VC�A�ڋq:KBF/DMU�A����:VRIO/VC/4P/QCD�j�̑I��ƃt�@�N�g�̐����F
+1.外部環境分析（市場、業界、顧客、競合）
+▼外部環境を分析するフレームワーク（3C、市場:PEST/STP/6R、業界:5F/VC、顧客:KBF/DMU、競合:VRIO/VC/4P/QCD）の選定とファクトの整理：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-2.�ƊEKSF�̓���iKBF�ADMU�AVC�AKSF�j
-��KBF�����DMU��VC����KSF�����F
+2.業界KSFの特定（KBF、DMU、VC、KSF）
+●KBFおよびDMUとVCからKSFを特定：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-3.���������́i�����A�\�́A���݁A��݁j
-���������ɂ��ĕ��͂���t���[�����[�N�i����:VSPRO/7S/PL/BS�A�\��:VRIO/VC�A����:4P/QCD�A���:4P/QCD�ASWOT�j��I��ƃt�@�N�g�̐����F
+3.内部環境分析（資源、能力、強み、弱み）
+▼内部環境について分析するフレームワーク（資源:VSPRO/7S/PL/BS、能力:VRIO/VC、強み:4P/QCD、弱み:4P/QCD、SWOT）を選定とファクトの整理：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-4.�o�c�ۑ�̓���iKSF�̎��Ђ̔�r�A���́A�M���b�v�j
-��KSF�Ǝ��Ђ̔�r�A���͂��s���M���b�v�������鉻�F
-�����Ɛ��s�ɂ�������_�y�ьo�c�ۑ�̓���F
+4.経営課題の特定（KSF⇔自社の比較、分析、ギャップ）
+▼KSFと自社の比較、分析を行いギャップを見える化：
+●事業遂行における問題点及び経営課題の特定：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-5.�ۑ�����̐헪���āi�M���v�����ׂ̈̑ł���j
-���ۑ���������邽�߂̑ł���ɂ��ĉ����𗧂Ă�F
+5.課題解決の戦略立案（ギャプ解消の為の打ち手）
+▲課題を解決するための打ち手について仮説を立てる：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-6.�{�􌟓��ƕ]���i�ł���̌��ʎ��Z�j
-���ł���ɂ��Ē�ʓI�ɕ]���F
+6.施策検討と評価（打ち手の効果試算）
+◆打ち手について定量的に評価：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-7.���s�{��Ƃ��̗v���i�{��̋�̉��j
-�����s����{������肵�ċ�̓I�ȃ}�C���X�g�[����KPI����ݒ�F
+7.実行施策とその要諦（施策の具体化）
+★実行する施策を決定して具体的なマイルストーンとKPI等を設定：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
 ----------------------------+---------------------------------------------+
-8.����ɂ��āi���Ȃ鐬���Ɍ����ē��j
-������̓W�]�ɂ��Ă��\���A�����F
+8.今後について（次なる成長に向けて等）
+○今後の展望についても予測、検討：
 
 
 ----------------------------+
-��
+□
 ----------------------------+---------------------------------------------+
-== �P�[�X�S�� ========================================================================================
+== ケース全文 ========================================================================================
 
 
 ======================================================================================================
 
 ======================================================================================================
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
-===�w�t���[�����[�N�x�ꗗ ============================================================================
-��CSFW(Case Stady Framework)�F�Ђ낯��I���W�i���B��ɃP�[�X�̃t�@�N�g�𐮗�����ׂɎg�p
--�t�@�N�g����-
-�E�ڎ��ƓY�t����(ContentsList)���ڎ��ƍ\���͖ڂ�ʂ����x���A���e�͎΂ߓǂ݁A�Y�t�����̐����ɂ��Ă͌X���ƈӖ��𗝉�
-P.01:�u���i���v�A��
-P.02:*�u����i���v�A��
-P.03:**�u�啶�i���v�A��
-P.04:***�u�����i���v�A��
-P.05:****�u���ߒi���v�A��
-P.06:*�A��
-P.10:�Y�t�����A��
-�E�|�C���g�ꗗ(Points List)���ۑ�̃L�[���[�h�������Ă��镶���A�}�[�J�[���n�C���C�g�����Ƃ�����s�b�N�A�b�v
+===『フレームワーク』一覧 ============================================================================
+▼CSFW(Case Stady Framework)：ひろけんオリジナル。主にケースのファクトを整理する為に使用
+-ファクト整理-
+・目次と添付資料(ContentsList)※目次と構成は目を通すレベル、内容は斜め読み、添付資料の数字については傾向と意味を理解
+P.01:「主題段落」、→
+P.02:*「副題段落」、→
+P.03:**「主文段落」、→
+P.04:***「副文段落」、→
+P.05:****「注釈段落」、→
+P.06:*、→
+P.10:添付資料、→
+・ポイント一覧(Points List)※課題のキーワードが入っている文脈、マーカー等ハイライトしたところをピックアップ
 P.x:
-�E���v�ꗗ(History List)���N���̃L�[���[�h�������Ă��镶�����s�b�N�A�b�v
-xxxx�N:
-�E�l���ꗗ(Characters List)�����A���A��E�A�~�b�V������
+・沿革一覧(History List)※年月のキーワードが入っている文脈をピックアップ
+xxxx年:
+・人物一覧(Characters List)※性、名、役職、ミッション等
 P.x:
-�E���l�ꗗ(figures List)����ʓI�ȕ����A�����A����A���v�A�]�ƈ����A���_�����X�����n�A�ʓrExcel���O���t��
+・数値一覧(figures List)※定量的な文脈、割合、売上、利益、従業員数、拠点数等々数字系、別途Excel化グラフ化
 P.x:
-�E�L�[���[�h�ꗗ(Keywords List)�����p��A�ƊE�p��A���W�A���i���A�T�[�r�X����
+・キーワード一覧(Keywords List)※専門用語、業界用語、商標、商品名、サービス名等
 P.x:
-�E���֐}(Correlation Diagram)���r�W�l�X���f���A���v�\���A�g�D�\���A�ƊE�\���A�T�[�r�X�񋟍\�����X
-�E���ƃ|�[�g�t�H���I(Business Portfolio)
--�T���菇-
-�@�ړI
-�E�_�_�m�F�A�C�V���[(�����l���_����ׂ���)�̊m�F
-�E�g�g�����A�t���[�����[�N(�؂��)�̌���
-�A����
-�E������������
-�B����
-�E�����W
-�E��񐮗�
-�E�����H
-�E���v�Z
-�E����r
-�E�O��m�F
-�E��񕪐�
-�C����
-�E��������
-�E�i����������
-�D�l�@
-�E�咣����
-�E���_
-�E���_�L�q
-
-
-�`�Q�v�f(�P���n�A�f�W�^���n)�̊�{�t���[�����[�N�`
-�������f���F�������r����ꍇ�Ɏg�p
-�E�����b�g�F
-�E�f�����b�g�F
-
-���t�@�N�G���F
-�E�t�@�N�g�F
-�E�G���[�V�����F
-
-�����C�Z�O�F
-�E���C���[�F
-�E�Z�O�����g�F
-
-���|�W�l�K�F
-�E�|�W�e�B�u�F
-�E�l�K�e�B�u�F
-
-���f�W�A�i�F
-�E�f�W�^���F
-�E�A�i���O�F
-
-���A�z�F
-�E�A�F
-�E�z�F
-
-���A�[��㈁F
-�E�A�[�F
-�E��㈁F
-
-�������ƒZ���F
-�E�����F
-�E�Z���F
-
-�������ƌ��ʁF
-�E�����F
-�E���ʁF
-
-�����ƗʁF
-�E���F
-�E�ʁF
-
-�������Ɖ��l�F
-�E�����F
-�E���l�F
-
-�������ƊO���F��ςƋq�ς��r����ꍇ�Ɏg�p
-�E�����v���F
-�E�O���v���F
-
-
-�`�R�ȏ�̗v�f(���G�n�A�A�i���O�n)�̊�{�t���[�����[�N�`
-��GBN�F
-�EGood(�ǂ������_)�F
-�EBad(���������_)�F
-�ENext(���ǂ�����)�F
-
-��KPT�F
-�EKeep(�����鎖)�F
-�EProblem(���_)�F
-�ETry(������)�F
-
-��WCM�F
-�EWill(����������)�F
-�ECan(�ł��邱��)�F
-�EMust(���ׂ�����)�F
-
-��3W(���R�R�킽��)�F��{�I�ȂR�ی��ȕ�����
-�EWhen(��)�F
-�EWhere(�R�R)�F
-�EWho(�킽��)�F
-
-��5W1H(�Z��)�F
-�EWhen(����)�F
-�EWhere(����)�F
-�EWho(���l)�F
-�EWhat(����)�F
-�EWhy(���̂�)�F
-�EHow(�@����)�F
-
-��6W3H�F
-�EWhat(�ۑ�-�����H)�F
-�EWhy(���@-�Ȃ��H)�F
-�EWho(���-�N���H)�F
-�EWhom(�Ώ�-�N�ɁH)�F
-�EWhen(����-���H)�F
-�EWhere(�ꏊ-�ǂ��ŁH)�F
-�EHow much(��p-������H)�F
-�EHow many(�K��-�ǂ̂��炢�H)�F
-�EHow(��i-�ǂ̂悤�ɁH)�F
-
-
-�`�r�W�l�X�n�̉��p�t���[�����[�N�`
-�����ƕ��́F�Ђ낯��I���W�i���B���ƕ��͂̉���
-�E�O�������́F�s��A�ƊE�A�ڋq�A�����i3C�A�s��:PEST/STP/6R�A�ƊE:5F/VC�A�ڋq:KBF/DMU�A����:VRIO/VC/4P/QCD�j
-�E���������́F����(���\�[�X:VSPRO/7S/PL/BS)�A�\��(�P�C�p�r���e�B:VRIO/VC)�A���݁A��݁iSWOT�A����:4P/QCD�A���:4P/QCD�j
-�E�����v�����́F�w������v���A�ӎv����ҁA�����ׂ̈̉ۑ蒊�o(�����v��)
-
-���s�ꕪ�́F�Ђ낯��I���W�i���B�s�ꕪ�͂̉���
-�E�s��K�́F�z�菤���̐l���Ƃقړ�����
-�E�s�ꐬ�����F�O�N�x�Ƃ̍���
-�E�s������F���Ɣ�ׂē��ɈႤ�_(�u�����v�͑��ɔ�ׂē��ɂ�����Ă���_)
-�E�s��X���F���܂ł̓���
-�E�s�ꓮ���F���ꂩ��̓���
-
-��3C�F�����͂̉���
-�ECustomer(�s��y�ьڋq)�F
-�ECompetitor(����)�F
-�ECompany(����)�F
-
-��PEST(�}�N����)�F�R�g���[�����B���Ђ���芪���O�����𕪐͂��A���݂܂��͏����ւ̉e����^���邩�\��
-�EPolitics(����)�F���ƁA���{�A�����́A�@���A�Ő��A�����A�ٔ��A�f���N���V�[
-�EEconomy(�o��)�F�s��A�ƊE�A�ƑԁA��ƁA�i�C�����A�o�ϐ������A������A�����A�בցA����
-�ESociety(�Љ�)�F�l���A�����A���s�A�����A�@���A����A���C�t�X�^�C��
-�ETechnology(�Z�p)�F�e�N�m���W�A�C���t���A�����A�����A�C�m�x�[�V����
-
-��5F(5�̗͂ɂ��ƊE������)�F�|�[�^�[�����B�ƊE�̎��v�������߂�5�̋����v������A�ƊE�̍\�����͂������Ȃ�
-�E�V�K�Q��(Threat of new entrants)�F
-�E��֕i(Threat of substitutes)�F
-�E����(Bargaining power of customers)�F
-�E����(Bargaining power of suppliers)�F
-�E����(Industry rivalry)�F
-
-��KBF�F
-�EKey Buying Factor(�w������v��)�F���\�A���i���A�w���̍ۂɓ��ɏd������v���B�����ȉc�Ɠ��A�w���s���ɉe����^����v���B���ׂĂ̏���҂������w���v���ł͂Ȃ��B
-
-��DMU�F
-�EDecision Making Unit(�ӎv����֗^��)�F�w���v���Z�X�ɂ����Ĉӎv����Ɋ֗^����ҁB�֗^�Җ���KBF�͈Ⴄ�B����ҁA�I��ҁA�C���t���G���T�[�A�Q�[�g�L�[�p�[�B
-
-��KSF�F
-�EKey Success Factor(�����v��)�F�r�W�l�X�v���Z�X�S�ʂɂ����Đ����ւ̌�������v���B��ʓI��VC�ɉ����čl����B
-
-���ƊEKSF�F
-�E���U�@(Frontal attack)�F
-�E�������(Competition avoidance)�F
-�E���V(Reform)�F
-
-���N���XSWOT�F
--�������v��-
-�EStrengths(����)�F�����A�m�I���Y�A�m���x�A�]���A�u�����h�A��v�ڋq�Ƃ̊֌W�A�ڋq�T�[�r�X�A�������A�C���t���A���n�A�i���A�ޗ��A�R�X�g
-�EWeakness(���)�F�V
--�O�����v��-
-�EOpportunities(�@��)�F�����E�@�߁A�s��g�����h�A�o�Ϗ󋵁A����̊��ҁA�Ȋw�Z�p�A���O�̊��ҁA�������Ђ̍s��
-�EThreats(����)�F�V
--�N���X�v��-
-�EStrengths & Opportunities(���݁̋@��)�F
-�EWeakness & Opportunities(��݁̋@��)�F
-�EStrengths & Threats(���݁̋���)�F
-�EWeakness & Threats(��݁̋���)�F
-
-��STP�F
-�ESegmentation(�Z�O�����e�[�V����)�F
-�ETargeting(�^�[�Q�b�e�B���O)�F
-�EPositioning(�|�W�V���j���O)�F
-
-��6R�F�Z�O�����e�[�V�����ƃ^�[�Q�b�e�B���O���i�邽�߂̎w�W
-�Realistic scale(�L���ȋK��)�F
-�Rate of growth(������)�F
-�Rival(����)�F
-�Rank(�D�揇��)�F
-�Reach(���B�\��)�F
-�Response(����\��)�F
-
-���q�g���m�J�l(�o�c����)�F
-�E�q�g�F
-�E���m�F
-�E�J�l�F
-
-��4P�F
-�EProduct(���i)�F
-�EPrice(���i)�F
-�EPlace(�ꏊ)�F
-�EPromotion(�̑�)�F
-
-��QCD�F���i��T�[�r�X���񋟉��l�����镨���r����ꍇ�Ɏg�p
-�EQuality(�i��)�F
-�ECost(���i)�F
-�EDelivery(�[��)�F
-
-��4C�F
-�EConsumer Value(�ڋq���l)�F
-�ECustomer Cost(�ڋq��p)�F
-�EConvenience(���֐�)�F
-�ECommunication(�`�B��)�F
-
-��MVV(�o�c���O)�F
-�EMission(�g��)�F
-�EVision(������)�F
-�EValue(���l��)�F
-
-��VSPRO�F�A�[�T�[�ED�E���g���B�}�l�W�����g�V�X�e���̗��z�ƌ���𕪐͂���̂ɗL���ȕ��͎�@
-�EVision(�r�W����)�F���̑g�D���ǂ̂悤�ȃr�W�������f���Ă���̂��H�A���̃r�W�����͓K�؂Ȃ��̂Ȃ̂��H
-�EStrategy(�헪)�F�헪�̓r�W�����ɉ��������̂ɂȂ��Ă��邩�H�A�����ƍ��ʉ��ł���헪�ɂȂ��Ă��邩�H
-�EProcess(�v���Z�X)�F�헪���s�̂��߂̃v���Z�X�͂ǂ̂悤�ɂȂ��Ă��邩�H�A���̃v���Z�X�͐헪�ɉ��������̂ɂȂ��Ă��邩�H
-�EResource(���\�[�X)�F�v���Z�X�𐋍s�ł���\���ȃ��\�[�X�������Ă��邩�H�i�\���Ȏ����A�\���Ȑݔ��A�\�͂̍����]�ƈ��j
-�EOrganization(�g�D)�F�헪�E�v���Z�X�����s�ł���g�D�\���ɂȂ��Ă��邩�H�A�]�ƈ��̓r�W������헪�𗝉����Ă��邩�H�A���ԊǗ��E�͏]�ƈ��𓮋@�Â����邩�H
-
-��VRIO(Resource Based View:�����������_)�F�W�F�C�EB�E�o�[�j�[���B���Ђ̓�������(�P�C�p�r���e�B)���u���Ƃ̋��݁v�̎��_�ŋ����D�ʐ��𕪐�
-�EValue(�o�ω��l)�F�u���Ƃ̋��݁v�̉��l���w���Ă��܂��B���l�́A���̋��݂����p���邱�ƂŁA�s�ꋣ���ɂ�����@����J�񂷂��Ɛ헪���ǂꂭ�炢���s�ł��邩
-�ERarity(�󏭐�)�F�󏭓x�����l�Ɠ��l�Ɂu���Ƃ̋��݁v�̊󏭓x�������Ă��܂��B�s��ɂ����鋣����Ƃ̂����A���Ȃ������u���Ƃ̋��݁v�������Ă��Ȃ���Ƃ��ǂꂭ�炢��
-�EImitability(�͕퍢�)�F�u���Ƃ̋��݁v�����ꂩ��擾����ۂɁA�u�q�g�E���m�A�J�l�v�Ȃǂ̃R�X�g�ʂŕs���ɂȂ�ꍇ�́A�͕�\�x���Ⴂ�ƌ�����
-�EOrganization(�g�D)�F�u���Ƃ̋��݁v���\���Ɉ����o���邩�ǂ����́A��Ƃ̑g�D�̌�������@�\�����d�����ĕҐ�����Ă��邩�ǂ����Ō��܂�
-
-��PAPRC�F�Ђ낯��I���W�i���B�g�D�̃X�L���Z�b�g�𖾕�������g�g��
-�EAsset(�ۗL���Y)�F�Œ莑�Y�A�������Y�A�ݔ��A�����A�u�����h
-�EPerfomance(�ߋ�����)�F����A���v�A�����A
-�EPortfolio(���ƍ\��)�F�|�[�g�t�H�[���I�A�V�i�W�[
-�EResource(�o�c����)�F�l�A
-�ECapability(���s�\��)�F
-
-���r�W�l�X�`�ԁF�Ђ낯��I���W�i���B�m���W��^�͘J���W��^�ɑg�ݍ��܂�Ă���̂ŁA�傫��������Ɓu�J���W��v�Ɓu���{�W��v��2��
-�E�J���W��^�r�W�l�X�F�ڋq���΂𒆐S�Ƃ���T�[�r�X�Ƃ�A���̘J���ɂ���Ď��v���グ��r�W�l�X�B���H�A���A�����A�a�@�A�^�N�V�[�^�]��A���t�Ȃ�
-�E���{�W��^�r�W�l�X�F�Œ莑�{�̊����������A�@�ނ�ݔ��Ɏ��{�𓊉����Ď��v���グ��r�W�l�X�B�@�B�����i�񂾐����ƁA�d�C�ƁA�K�X�ƁA���[�J�[�A��^���Ǝ{�݂Ȃ�
-�E�m���W��^�r�W�l�X�F�����J���A���i�擾�Ŕ\�́A�X�L���𖁂����i�̊J���A�����Ŏ��v���グ��r�W�l�X�B�ٌ�m�A��v�m�A�ŗ��m�A�R���T���A���i�����A�\�t�g�J���Ȃ�
-�E�t���[�r�W�l�X�F�t���[�r�W�l�X�͂��̓s�x�̎���Ŏ������グ�Ă���r�W�l�X�B�������⃌�X�g�����Ȃǂ̈��H�X�A�R���r�j�G���X�X�g�A�Ȃǂ̏����X�Ȃ�
-�E�X�g�b�N�r�W�l�X�F�ڋq�ƌ_������񂾂�A������m�ۂ��邱�ƂŌp���I�ȗ��v�𓾂�r�W�l�X�B�ʐM���ƁA�d�́E�K�X���ƁA��쎖�ƁA�m���ƁA�t�����`���C�Y�Ȃ�
-
-��7S�F
-�EStrategy(�헪)�F
-�ESystem(�V�X�e���A�d�g��)�F
-�EStructure(�g�D�\��)�F
-�EShared Value(���L���l)�F
-�EStaff(�l��)�F
-�ESkill(�X�L���A�K���Z�p)�F
-�EStyle(�X�^�C���A���͋C���K���K)�F
-
-��HRM�F
-�E�z�u�F
-�E�]���F
-�E��V�F
-�E�琬�F
-�E�̗p�F
-�E�ސE�F
-�E�W���u�}�[�P�b�g�F
-
-��HRM���헪�F
-�E�o�c���O(Management philosophy)�F
-�E�o�c�헪(Management strategy)�F
-�EHR�헪(Human Resource strategy)�F
-�E�l�����x(Personnel system)�F
-�E�g�D�\��(Organizational structure)�F
-�E����ׂ��l�ޑ�(Ideal type of human resources)�F
-�E��ƕ����E���y(Corporate culture)�F
-�EIR�F
-�E���v�F
-
-���|�[�^�[�̊�{�헪�F
-�E�R�X�g���[�_�V�b�v�헪�F
-�E���ʉ��헪�F
-�E�W���헪�F
-
-���o�c�헪:
-�E�S�А헪(��Ɛ헪)�F���ƃ|�[�g�t�H���I�œK���i�I���ƏW���A�Q���E�P�ށE�����j�A�g�D�E���y�ϊv�A�����헪�Ȃǉ�БS�̂��h���C�u����헪
-�E���Ɛ헪�F����̎��ƕ���̎��ƖڕW�E���j�̎����Ɍ����č��肳���A���Ɗ��╔���Ԃ̘A�g���@�A���v�ő剻�A�V�s��n�o�A�V�K���Ɨ����グ�Ȃǂ̐헪
-�E�@�\�헪�F���Ɗ��A�J���E�����E�c�ƂȂǓ���@�\�g�D�̌ʐ헪
-
-��FSA(Financial Statement Analysis:�������\����)�F
-�E���v�v�Z��(P/L:Profit and Loss Statement)�F
-�E�ݎؑΏƕ\(B/S:Balance Sheet)�F
-�E�L���b�V���t���[�v�Z��(C/S:Cash Flow Statement)�F
-�E�����w�W(F/I:Financial Indicator)�F
-
-�������w�W(F/I:Financial Indicator)�F
--����-
-�E�����͕��́F���Ȏ��{���v��(ROE)�A�����Y���v��(ROA)�A�������v��(ROI)�A�������{���v��(ROIC)
-�E���v�����́F���㍂�����v���A���㍂�c�Ɨ��v���A���㍂�o�험�v���A���㍂���������v��
-�E���������́F�����Y��]����(��)�A�������Y��]����(��)�A�Œ莑�Y��]����(��)�A��������]����(��)�A�L���b�V���R���o�[�W�����T�C�N��(��)�A�����Y��]���A�����Y��]���ԁA�������]���A�������]���ԁA�I�����Y��]���A�I�����Y��]���ԁA�d������]���A�d������]����
-�E���S�����́F�������o���b�W�A���Ȏ��{�䗦�A�����䗦�A�����䗦�A�Œ�䗦�A�Œ蒷���K�����A�茳�������A�茳�������䗦�A�C���^���X�g�J�o���b�W���V�I
-�E���������́F���㍂�������A�����Y�������An�N�Ԃ̕��ϐ�����(CAGR)
--�w�W-(�e�w�W�̎Z�o���ƁA��肤��l�ƕ��ϒl�A�傫���Ȃ�Ɖ����Ӗ����A�������Ȃ�Ɖ����Ӗ����邩)
-�E���㍂�������F(���N�x���㍂-�O�N�x���㍂)/�O�N�x���㍂
-�E�����Y�������F(���N�x���Y���v-�O�N�x���Y���v)/�O�N�x���Y���v
-�En�N�Ԃ̕��ϔ��㍂������(CAGR)�F(���N�x���㍂/n�N�O�̔��㍂)^1/n-1
-�En�N�Ԃ̕��ϑ����Y������(CAGR)�F(���N�x�����Y/n�N�O�̑����Y)^1/n-1
-�E���㍂�����v���F���㑍���v/���㍂
-�E���㍂�c�Ɨ��v���F�c�Ɨ��v/���㍂
-�E���㍂�o�험�v���F�o�험�v/���㍂
-�E���㍂���������v���F���������v/���㍂
-�E�����Y��]���F���㍂/�����Y = ���㍂/���Y���v
-�E�����Y��]���ԁF�����Y/(���㍂/365��) = ���Y���v/(���㍂/365��)
-�E�������]���F���㍂/�����
-�E�������]���ԁF�����/(���㍂/365��)
-�E�I�����Y��]���F���㌴��/�I�����Y
-�E�I�����Y��]���ԁF�I�����Y/(���㌴��/365��)
-�E�d������]���F���㌴��/�d����
-�E�d������]���ԁF�d����/(���㌴��/365��)
-�E�������o���b�W�F�����Y/���厑�{
-�E���Ȏ��{�䗦�F���Ȏ��{/(����+�����Y) = (�����Y-�V���\��-��x�z���厝��)/(����+�����Y)
-�E�����䗦�F�������Y/��������
-�E�����䗦�F�������Y/�������� = (�������Y-�I�����Y)/��������
-�E�Œ�䗦�F�Œ莑�Y/�����Y
-�E�Œ蒷���K�����F�Œ莑�Y/(�Œ蕉��+�����Y)
-�E�茳�������F�����a�� + �Z�����L�̗L���،�
-�E�茳�������䗦�F(�����a��+�Z�����L�̗L���،�) / (���㍂/365��)
-�E�C���^���X�g�J�o���b�W���V�I(ICR)�F(�c�Ɨ��v+��旘���E�z����)/�x������
-�E���Ȏ��{���v��(ROE)�F���������v/���Ȏ��{ = ���������v/���㍂ * ���㍂/���Y���v * ���Y���v/���Ȏ��{ = ���㍂���������v�� * �����Y��]�� * �������o���b�W
-�E�����Y���v��(ROA)�F�o�험�v/���Y���v = �o�험�v/���㍂ * ���㍂/���Y���v = ���㍂�o�험�v�� * �����Y��]��
--�֌W��-
-�EROE = (                                 ROA                                               ) + (            �������o���b�W)
-      = (             ���v                 +                ���Y                            ) + (       ����        +�����Y)
-      = ((     ����     +      ��p      ) + (  �������Y      +           �Œ莑�Y         )) + ((��������+�Œ蕉��)+�����Y)
-      = (((�q�P��+�q��) + (�ϓ���+�Œ��)) + ((����+�����) + (�L�`�Œ莑�Y+���`�Œ莑�Y))) + ((��������+�Œ蕉��)+�����Y)
-�EFCF=EBIT*(1-�ŗ�)+�������p��-����-���^�]���{
-�ErE=rF+��(rM-rF)
-�EWACC=D/(D+E)*rD*(1-�ŗ�)+E/(D+E)*rE
-�ENPV=��FCFn/(1+WACC)^n-FCF0
--����-
-�EROE�FReturn On Equity�����Ȏ��{���v��
-�EROA�FReturn On Assets�������Y���v��
-�EROS�FReturn On Sales�����㍂���v��
-�EROI�FReturn On Investment���������v��
-�EROIC�FReturn On Investment Capital���������{���v��
-�EROCE�FReturn On Capital Employed���g�p���{���v��
-�EROAS�FReturn On Advertising Spend���L����p�Ό���
-�EEBITDA�FEarnings Before Interest Taxes Depreciation and Amortization�������O�ň��O�������p�O���v
-�EEBIT�FEarnings Before Interest and Taxes�������O�ň��O���v���c�Ɨ��v
-�EEBT�FEarnings Before Taxes���ň��O���v
-�ENOPAT�FNet Operating Profit After Taxes���ň���c�Ɨ��v
-�ECAPEX�FCapital Expenditure�����{�I�x�o
-�EDep�FDepreciation & amotization���������p��
-�EBEP�FBreak Even Point�����v����_
-�EMP�FMarginal Profit�����E���v
-�EWC�FWorking Capital���^�]���{���������Y-(�L���q����������)��������
-�E��WC�Fchanges in Working Capital�������^�]���{������-�O��
-�ECCC�FCash Conversion Cycle�������z������
-�ECAGR�FCompound Annual Growth Rate���N���ϐ�����
-�EFCF�FFree Cash Flow���t���[�L���b�V���t���[
-�EWACC�FWeighted Average Cost of Capital�����d���ώ��{�R�X�g
-�ENPV�FNet Present Value���������݉��l
-�EAPV�FAdjusted Present Value���������݉��l
-�EPV�FPresent Value�����݉��l
-�EEV�FEnterprise Value����Ƃ̎��Ɖ��l
-�EIRR�FInternal Rate of return���������v��
-�EEPS�FEarnings Per Share���ꊔ�����蓖�������v
-�EPER�FPrice Earnings Ratio���������v��
-�EBPS�FBook-value Per Share��1�������菃���Y
-�EPBR�FPrice Book-value Ratio�����������Y�{��
-�ECAPM�FCapital Asset Pricing Model�����{���Y���i���f��
-�EIC�F�������{
-�ECE�F�g�p���{
-�EBook Value���뉿�F���뉿�z
-�EMarket Value�������F�s�ꉿ�i
-�ErD�F�L���q���R�X�g���x������
-�ErE�F����R�X�g�����҃��^�[��(���Ҏ��v��)��CAPM
-�ErF�F���X�N�t���[���[�g���������(10�N���H)
-�ErM�F�}�[�P�b�g�|�[�g�t�H�[���I
-�ErM-rF�F�}�[�P�b�g���X�N�v���~�A��
-�ErP�F�}�[�P�b�g���X�N�v���~�A��
-�E���F�s�ꃊ�X�N�q���x�w�W
-�E��AL�FLevered Asset �����L���q�������鎑�Y��
-�E��EL�FLevered Equity �����L���q�������銔����
-�E��AU�FUnlevered Asset �����L���q�����������Y��
-�E��EU�FUnlevered Equity �����L���q��������������
-�ED/E�FD/E���V�I
-�ED/(D+E)�F���䗦
-�EE/(D+E)�F���厑�{�䗦
-
-���f���|�����f���F
-�E���㗘�v��(ROS)�F���������v/���㍂
-�E���Y��]���F���㍂/���ϑ����Y
-�E�����Y���v��(ROA)�F���������v/���ϑ���
-�E�������o���b�W�F���ϑ����Y/���ϊ��厑�{
-�E���厑�{���v��(ROE)�F���������v/���ϊ��厑�{
-
-���R�X�g�\���F�Œ��(����Ƃ͖��֌W�ɔ��������p)�ƕϓ���(����̑����ɔ�Ⴕ�ĕϓ������p)�̉Ȗڂ͋ƊE�A�o�c���j�ɂ���ĕ��ނ��ς��B
--�Œ��-
-�E�v���p�[�l����F
-�E�������p��F
-�E�Œ莑�Y�ŁF
-�E�ƒ��F
-�E���M��F
-�E�L����F
-�E�ی����F
--�ϓ���-
-�E�p�[�g�l����F
-�E���㌴���F
-�E���ޗ���F
-�E�̔��萔���F
-�E���Օi��F
-�E�^����F
-�E�O����F
-�E�L����`��F
-�E�����J����F
-
-��CVP����(Cost Volume Profit Analysis:���v����_����)�F
-�ECost(�R�X�g)�F
-�EVolume(�̔���)�F
-�EProfit(���v)�F
-
-��CVP(Customer Value Proposition:�ڋq���l�̒�)�F
-�E���v�������F
-�E�o�c�����F
-�E�v���Z�X�F
-
-��BSC(Balanced Scorecard)�F�L���v���������ƃm�[�g�����m���񏥁B��Ƃ̋Ɛтɉe����^���Ă���v���������E�Ǘ�����A�Ɛѕ]���V�X�e���B
-�E�����̎��_�F�Œ�䗦�A�����{�䗦�A�����Y���v���A�����v���A�o�ϕt�����l�A�����㍂�A�c�Ɨ��v�A�������A�����䗦�A�������v���E�E�E
-�E�ڋq�̎��_�F�M���x�A���i�C���[�W�A���s�[�g�w�����A�ڋq���C�����e�B�[�w�W�A�ڋq�K��񐔁A�}�[�P�e�B���O��p�A���ώ�����A�ڋq�]���_�A�ڋq������̌_�񐔁E�E�E
-�E�����̎��_�F�d�b�A�N�Z�X���A���Y���[�h�^�C���A�����G���[���AIT�o��A�I�����Y��]���A�i�؂ꗦ�A�V���i�V�F�A���A���Y�����㗦�A�C���^�[�l�b�g�ڋq���E�E�E
-�E�w�K�Ɛ����̎��_�F�]�ƈ����A���i�擾���A���ό��Η��A���[�_�[�V�b�v���A�����Ǘ��E���A�G���p���[�����g�W���A�]�ƈ������x�A�\�͌��㗦�A�Г����v��Č����A���Њ�]�Ґ��A�]�ƈ���l������̌��C��p�E�E�E
-
-��OKR(Objectives and Key Results)�F
-�EObjective (�ڕW)�F
-�EKey Results�i�ڕW�B���̂��߂̎�v�Ȑ��ʁj�F
-
-��MBO(Management By Objectives)�F
-
-��KPI(Key Performance Indicator)�F
-
-��SMART�F
-�ESpecific(��̓I��)�F�N���ǂ�ł������ł���A���m�ŋ�̓I�ȖڕW�ɂ���
-�EMeasurable(����\��)�F�B���x�������q�ϓI�ɔ��f�ł���悤�A���l�ŕ\����ڕW�ɂ���
-�EAchievable(�B���\��)�F�����I�ȖڕW�ɂ���
-�ERelated(�o�c�ڕW�Ɋ֘A����)�F�g�D�ɂƂ��ĈӖ��̂���ڕW�ɂ���
-�ETime-bound(����������)�F���ߐ؂�̂���ڕW�ɂ���
-
-��VC(Value Chain:���l�A��)�F
--�劈��-
-�E�w�������F
-�E�����F
-�E�o�ו����F
-�E�̔��E�}�[�P�e�B���O�F
-�E�T�[�r�X�F
--�x������-
-�E�S�ʊǗ��F
-�E�l���E�J���Ǘ��F
-�E�Z�p�J���F
-�E���B�����F
--�}�[�W��-
-�E�t�����l�F
-�E���v�F
-
-��Cost Driver�F�|�[�^�[�͎��ƕ��͂̍ۂɃR�X�g���K�肷��\���I�v���𐮗����Ă���B�R�X�g�E�h���C�o�[���ǂ̂悤�Ɏ��Ђ̃o�����[�`�F�[���ɉe����^���邩���ʓI�ɔc������
-�E�K�͂̌o�ρi�܂��͋K�͂̔�o�ρj
-�E�o���Ȑ��i���[�j���O�A�o���̋��L�Ȃǁj
-�E�͈͂̌o�ρi���̎��ƒP�ʂƂ̊����̋��L���A�V�i�W�[�Ȃǁj
-�E�ݔ��Ȃǂ̗��p�󋵁i���p�x�ƌŒ��Ƃ̊֌W�A���p�x�̕ω��Ȃǁj
-�E�A���֌W�i���l�A���̍œK���A�T�v���C���[�◬�ʃ`���l���Ƃ̊֌W�j
-�E�����i���������Ȃǂɂ��u�T�̗́v�̕ύX�j
-�E�^�C�~���O�i��s�҂̗L���A�s���j
-�E���R�ٗʂł��鐭��i���i����A�Z�p�E�}�[�P�e�B���O��i�̑I���Ȃǁj
-�E�v�f�R�X�g�i���ޗ���J���͂Ȃǂ̕ω��j
-�E���x�I�v���i�K���A�@���A�J�����s�Ȃǂ̉e���j
-
-�����ƌo�ϐ��F
-�E�K�͂̌o��(�X�P�[������)�F
-�E�ғ����̌o��(�X�R�[�v����)�F
-�E�͈͂̌o��(�V�i�W�[����)�F
-�E���x�̌o��(�h�~�i���g����)�F
-�E���U�̌o��(�l�b�g���[�N����)�F
-�E�o���Ȑ��̌o��(�o������)�F
-
-��SCM(Supply Chain Management)�F
-�E�J���F
-�E���B�F
-�E�����F
-�E�����F
-�E�̔��F
-
-���Y�p�ؗp�w�K�F
-�E�Y�p�F
-�E�ؗp�F
-�E�w�K�F
-
-��CAF(Country Analysis Framework)�F
-�EContext�F�����̌o�ώ����A�����V�X�e���A�Љ�x�A�C�f�I���M�[�B���ۂ̖f�Պ֌W�A�����ԋ@�ցA���ۋ@��
-�EStrategy�F�S�[���̌o�ϐ����A�ٗp�A��������x�A����A�A�o�A�������萫�A����A�Љ���B����̍�������A���Z����A�f�Ր���
-�EPerformance�F�o�ς�GDP�A���Ɨ��A�C���t���A���ێ��x�A�����̓Ɨ��A�̐��ύX�A�Љ�̎������A�Z����A���^���x��
-
-��ACL�F���Ƃ𕪐͂���ۂɂ���3�v�f��]�����鎖�ɂ����I���ЂƎЉ�Ƃ̊Ԃ̊֌W����`�Â�����
-�EAutonomy(�Ɨ���)�F
-�ECapacity(�\��)�F
-�ELegitimacy(������)�F
-
-���R�A�E�R���s�^���X�F
-�E���i�́F���i�T�[�r�X�̊J�����A�J���X�s�[�h�A���i�V�F�A
-�E���́F���T�[�`�\�́A�v�����j���O�\�́A�ڋq�琬�\��
-�E�c�Ɨ́F�c�Ɛl�����A����ė́A�ڋq���됔
-�E�T�|�[�g�́F���k�Ή��l�����A�t�H���[�́A�ڋq�����x
-
-��PLC(Product Life Cycle)�F
-�E������(Innovators)�F
-�E������(Early Adopters)�F
-�E���n��(Early Majority)�F
-�E�O�a��(Late Majority)�F
-�E���ފ�(Laggards)�F
-
-��VPC(Value Proposition Canvas)�F
--�񋟉��l-
-�E�񋟂��鐻�i�A�T�[�r�X+����(Product&Services)�F
-�E�񋟃T�[�r�X�ɂ���ē�����������v��(Gain Creators)�F
-�E�񋟃T�[�r�X�ɂ���Č��炷���Ƃ̂ł��錙�ȗv��(Pain Relievers)�F
--�ڋq�Z�O�����g-
-�E�ڋq�̂���������(�d��)(Customer Jobs)�F
-�E�ڋq������������(�����b�g�E���b)(Gain)�F
-�E�ڋq�����Ȃ���(��Q�E���X�N�∫������)(Pain)�F
-
-���W���u�}�b�v�F
--��`-
-�E���j�ƂȂ�@�\�I�W���u�F
-�E�W���u���s��(���s��)�F
--�ו���-
-�E����I�ȃW���u(Emotional Jobs)�F���j�ƂȂ�@�\�I�ȃW���u�̗��s���ɁA�W���u���s�҂��l�I�ɓ���������A�܂����΂ɗ~�����Ȃ�������L��
-�E�Љ�I�ȃW���u(Society Jobs)�F���j�ƂȂ�@�\�I�ȃW���u�����s����ɂ������āA�W���u���s�҂��u��O�҂���F�߂�ꂽ�����Ɓv�܂��u�F�߂�ꂽ���Ȃ����Ɓv������
-�E�֘A����W���u(Related Jobs)�F���j�ƂȂ�@�\�I�ȃW���u�Ɋ֘A���āA�W���u�̎��s�҂�����I�ɗ��s����\���̂���W���u������
-�E�䓪����W���u(Alternative Jobs)�F�V���ȃg�����h�A�Z�p�A�K���ȂǂɊւ��ăW���u�̎��s�҂��V���Ɋ֐S�����\��������u�@�\�I�W���u�v���l����
--�v���Z�X-
-�E�v�悷��(Define)�F
-�E���W����(Locate)�F
-�E��������(Prepare)�F
-�E�m�F����(Confirm)�F
-�E�J�n����(Execute)�F
-�E�Ď�����(Monitor)�F
-�E�C������(Modify)�F
-�E�I������(Conclude)�F
-
-���r�W�l�X���f���L�����o�X�F
-�E�ڋq�Z�O�����g(CS:Customer Segment)�F�u�N�ɔ��邩�v�Ƃ����ϓ_
-�E�ڋq�Ƃ̊֌W(CR:Customer Relationships)�F���ڑ̌����Đڋq����̂��A�Z���t�T�[�r�X�Ȃ̂��B�p���I�Ȋ֌W�Ȃ̂��A��x���̊֌W�Ȃ̂��B
-�E�`���l��(CH:Channels)�F�`���l���́A�ڋq�Ƀr�W�l�X�̉��l��񋟂���o�H�A�܂��͂��̉��l���`����o�H
-�E�񋟉��l(VP:Value Propositions)�F�ڋq�̐�����֗��ɂ���̂��A���y��^����̂��A�������̓R�X�g�̍팸�ȂǂɊ�^����̂��A�V���ȉ\����񋟂���̂�
-�E�L�[�A�N�e�B�r�e�B(KA:Key Activities)�F���Ȃ������g�܂Ȃ���΂Ȃ�Ȃ������u���Ɠ��e�v�B�̔����s���̂��A�������s���̂��l�b�g�T�[�r�X�̉^�c���s���̂�
-�E�L�[���\�[�X(KR:Key Resources)�F�r�W�l�X���f�������̂��߂ɕK�v�Ȏ����ł��B�o�c�ɂ����鎑����4�A�q�g�A���m�A�J�l�A���
-�E�L�[�p�[�g�i�[(KP:Key Partners)�F�̔����ւ��Ă���鏬���X�Ȃ̂��A�������ϑ����鐻���ƂȂ̂��A������񋟂��Ă����T�v���C���[�Ȃ̂�
-�E�R�X�g�\��(CS:Cost Structure)�F�l����A�L����`��A������A�J����ȂǂȂǁA�r�W�l�X�ɂ͂��܂��܂ȃR�X�g������܂�
-�E�����̗���(RS:Revenue Streams)�F�ڋq�ɂ��A�����̃��[�U�[�A�L���̃��[�U�[�����܂��B�����ɂ��A�o�^���A����ȂǗl�X�Ȏ�ނ�����܂��B
-
-�����[���L�����o�X�F
-�E�ۑ�i�C���T�C�g�j�F
-�E�ڋq�Z�O�����g�F
-�E�Ǝ��̉��l��āF
-�E�\�����[�V�����F
-�E�`���l���F
-�E���v�̗���F
-�E�R�X�g�\���F
-�E��v�w�W�F
-�E���|�I�ȗD�ʐ��F
-
-���J�X�^�}�[�W���[�j�[�}�b�v�F
--[����]�s��-
-�E�F�m�F
-�E�����A�֐S�F
-�E��r�����F
-�E�w���F
--[�c��]�̌�-
-�E�^�b�`�|�C���g�F
-�E�v�l�F
-�E����F
-
-
-�`�}�g���b�N�X�n�̓W�J�t���[�����[�N�`
-��AZMX(Ansoff Matrix)�F�A���]�t���B�V���Ƃ̌�����������Ƃ̎��Ɛ헪�̌����̍ۂɗL��
--[����]�����V�K���i-
-�E�V���i�J���F
-�E���p���F
--[�c��]�����V�K�s��-
-�E�s��Z���F
-�E�V�s��J��F
-
-��AVMX(Advantage Matrix)�F
--[����]�D�ʐ��\�z�̉\��-
-�E�K�͌^���ƁF
-�E��l�܂�^���ƁF
--[�c��]�ƊE�̋����v���̐�-
-�E�����^���ƁF
-�E���U�^���ƁF
-
-��VP(Value Portfolio)�F
--[����]ROI-
-�E�@��ƁF
-�E���؂莖�ƁF
--[�c��]�r�W����������-
-�E�{�����ƁF
-�E�ۑ莖�ƁF
-
-��PPM(Product Portfolio Management)�F�{�X�g���R���T���e�B���O�B
--[����]���΃}�[�P�b�g�V�F�A-
-�E��莙(Question mark)�F
-�E������(Dog)�F
--[�c��]�s�ꐬ����-
-�E�Ԍ`(Star)�F
-�E���̂Ȃ��(Cash cow)�F
-
-
-�`�s���~�b�h�n�̓W�J�t���[�����[�N�`
-�����ӌ`���̃X�e�b�v�F
-�E�ړI�̋��L�F���B�_�̐ݒ聨�o���_�̌��聨�d�_�̍���
-�E�[�����̏����F�O��̐���(Base)���������(What)���ǂ������(Where)�����̖��(Why)���ǂ�����(How)
-�E�s���̑I���F
-�E���s�̌��ӁF
-
-���ړI���L�X�e�b�v�F
-�E���B�_�̐ݒ�F
-�E�o���_�̌���F
-�E�d�_�̍���F
-
-���[���������X�e�b�v�F
-�E�O��̐���(Base)�F
-�E�������(What)�F
-�E�ǂ������(Where)�F
-�E���̖��(Why)�F
-�E�ǂ�����(How)�F
-
-���c�_�X�e�b�v�F
-�E�����o��(Lead)�F
-�E�󂯎~�߂�(Catch)�F
-�E���΂�(Control)�F
-
-�����΂��F�_�_�̃R���g���[��
-�E�ڍs(Shift)�F
-�E�ۗ�(Stack)�F
-�E�����(Stay)�F
-�E�m�F(Identify)�F
-�E�L����(Expand)�F
-�E�[�߂�(Deep)�F
-
-���ϊv�̃X�e�b�v�F
-�E��@�ӎ������߂�F
-�E�ϊv���i�̂��߂̐��i�`�[��������F
-�E�r�W�������`����F
-�E�]�ƈ��Ƀr�W���������m�O�ꂷ��F
-�E�]�ƈ��Ɍ�����^���A�r�W�����̎����𐄐i����F
-�E�Z���I���ʂ��グ�邽�߂̌v��𗧂āA���s����F
-�E�Z���I�Ȑ��ʂ��������āA����Ȃ�ϊv�𐄐i����F
-�E�ϊv�����t������F
-
-���`�[���`����5�X�e�b�v(�^�b�N�}�����f��)�F
-��`����(Forming)�F
-�������(Storming)�F
-������(Norming)�F
-��@�\��(Performing)�F
-��U���(Adjourning)�F
-
-���u�����h�����̃s���~�b�h�F
-�E����(Resonance)�F�ڋq�ƃu�����h�̊֌W�̐����A����ьڋq���u�����h�Ɓu�������Ă���v�Ɗ�������x
-�E�]���E���f(Judgments)�F�ڋq���g�̌l�I�ӌ���]��
-�E����(Feelings)�F�u�����h�Ɋւ���ڋq�̊���I�Ή��┽��
-�E�i���E����(Performance)�F���i��T�[�r�X���A�ڋq�̋@�\�I�j�[�Y�������ɖ�������
-�E�\��(Imagery)�F�u�����h���ڋq�̐S���I�j�[�Y�܂��͎Љ�I�j�[�Y�𖞂������Ƃ�����@�ȂǁA���i��T�[�r�X�ɕt�т������
-�E��v�@�\ (Salience)�F�l�X�ȍw���󋵂����󋵂̉��ŁA�u�����h���ǂ�قǕp�� �ŗe�ՂɎv���N����邩
-
-���}�Y���[�̗~��5�i�K(6�i�K)�F
-�E(���Ȓ��z)�F
-�E���Ȏ����F
-�E���F�F
-�E�����ƈ��F
-�E���S�F
-�E�����I�F
-
-
-�`�J�X�^�}�[�W���[�j�[�n�̓W�J�t���[�����[�N�`
-��AIDA�F����҂����i�ɐڂ��Ă���w���ɂ�����܂ł̌���v���Z�X(�č��Ŏ嗬)
-�EAttention(����)�F�ڋq�̒��ӂ�����
-�EInterest(�֐S)�F�ڋq�ɏ��i��i�����֐S������
-�EDesire(�~��)�F�ڋq�ɏ��i�ւ̗~��������A���ꂪ�����������炷���Ƃ�[��������
-�EAction(�s��)�F�ڋq�ɍs�����N��������
-
-��AIDMA�F�Z���I�ȏ���҂̍w������v���Z�X
-�E���ӊ��N(Attention)�F
-�E����(Interest)�F
-�E�~��(Desire)�F
-�E�L��(Memory)�F
-�E�s��(Action)�F
-
-��AIDCA�F�_�C���N�g�}�[�P�e�B���O�ł̏���҂̍w������v���Z�X
-�EAttention(����)�F
-�EInterest(�֐S)�F
-�EDesire(�~��)�F
-�EConviction(�m�M)�F
-�EAction(�s���A�w��)�F
-
-��AIDCAS�F
-�EAttention(���ӊ��N)�F
-�EInterest(����)�F
-�EDesire(�~��)�G����҂����i/�T�[�r�X���ق����Ȃ�
-�EConviction(�m�M)�F
-�EAction(�s��)�F����҂����i���w������
-�ESatisfaction(����)�F
-
-��AISAS�F�C���^�[�l�b�g�ł̏���҂̍w������v���Z�X
-�EAttention(����)�F
-�EInterest(�֐S)�F
-�ESearch(����)�F
-�EAction(�s���A�w��)�F
-�EShare(���L�A���i�]�����l�b�g��ŋ��L������)�F
-
-��DAISAS(Dual AISAS)�F
--�������Ƃ��ړI��AISAS-
-�EAttention(����)�F����҂��L�����݂ď��i�E�T�[�r�X��m��
-�EInterest(�֐S)�F����҂������E�֐S������
-�ESearch(����)�F����҂����i�𒲂ׂ�
-�EAction(�s���A�w��)�F����҂����i�𔃂�/�T�[�r�X���p
-�EShare(���L)�F����҂����i�̕]������񋤗L����
--�L�߂邱�Ƃ��ړI��AISAS-
-�EActivate(�N��)�F���i�E�T�[�r�X�ɋ���������
-�EInterest(����)�F���i�E�T�[�r�X�ɎQ���̈ӎ�������
-�EShare(���L)�F�u�����h���ɋ������AWeb�ŋ��L
-�EAccept(��e)�F��O�҂��󂯎��B
-�ESpread(�g�U)�F��O�҂��g�U
-
-��AISCEAS�F
-�EAttention(����)�F�F�m�i�K
-�EInterest(����)�F�F�m�i�K
-�ESearch(����)�F����i�K
-�EComparison(��r)�F����i�K
-�EExamination(����)�F����i�K
-�EAction(�w��)�F�s���i�K
-�EShare(��񋤗L)�F�s���i�K
-
-��VISAS�F
-�EViral(���R�~)�F
-�EInfluence(�e��)�F
-�ESympathy(����)�F
-�EAction(�w���s��)�F
-�EShare(��񋤗L)�F
-
-��DECAX�F
-�EDiscovery(����)�F����҂��L�v�ȃR���e���c�𔭌�
-�EEngage(�֌W)�F����҂��R���e���c�̔��M���Ɗ֌W��[�߂�
-�ECheck(�m�F)�F����҂����M���̏��i���m�F
-�EAction(�w��)�F����҂����i���w������
-�EeXperience(�̌��Ƌ��L)�F����҂����i��̌����ď�񋤗L����
-
-��AMTUL�F
-�EAware(�F�m)�F
-�EMemory(�L��)�F
-�ETrial(���p)�F
-�EUsage(�{�i�I�Ȏg�p)�F
-�ELoyalty(�Œ�q)�F
-
-��SIPS�F
-�ESympathize(��������)�F
-�EIdentify(�m�F����)�F
-�EParticipate(�Q������)�F
-�EShare&Spread(���L�g�U����)�F
-
-��AIDAS�F
-�EAttention(����)�F
-�EInterest(�֐S)�F
-�EDesire(�~��)�F
-�EAction(�s���A�w��)�F
-�ESatisfaction(����)�F
-
-��AIDEES�F
-�EAttention(�F�m)�F
-�EInterest(����)�F
-�EDesire(�~��)�F
-�EExperience(�w���A�o��)�F
-�EEnthusiasm(�S���A�M��)�F
-�EShare(��񋤗L)�F
-
-
-�`�O���[�r�X�u�t�w�̍u�`�n�t���[�����[�N�`
-��UZQABFW(���Z����r�W��I���W�i��)�F��ʓI�ȕ��͂�����ۂɗp����
--�菇-
-�E����(��r�̎��_�~�v��ւ̃A�v���[�`)�̖ړI����������
-�E�����������Ăǂ�ȏ�񂪕K�v���􂢏o��
-�E�K�؂ȏ������W����
-�E���͂̍ۂɂǂ�ȑO���u���ׂ����m�F����
-�E�W�߂��������H�A�v�Z������
-�E�ړI�ɂȂ�����߂�����
-�E���H���ʂ���߂𕪂���₷���\������
--��r-
-�E�C���p�N�g(�傫���ɈӖ������邩�H)�F���_�O���t�A�~�O���t
-�E�M���b�v(���ق́H)�F���_�O���t�A�E�H�[�^�[�t�H�[��
-�E�g�����h(�ω��́H)�F�܂���O���t�A�c�_�O���t
-�E����΂�(�W���́H)�F�q�X�g�O�����A�p���[�g�`���[�g
-�E�p�^�[��(�U��΂�́H)�F�U�z�}�A�}�g���b�N�X
--�v��-
-�E���o��(�}�ɂ����@)�F�q�X�g�O�����A�E�H�[�^�[�t�H�[���A�p���[�g�}�A���n��
-�E���l��(�W�񂷂��@)�F��\�l�ŕ\�����ϒl�⒆���l��ŕp�l�A�U��΂���\�����U�W���A�W���΍�
-�E������(�֌W�����Ƃ炦���@)�F�A�[�I�A�v���[�`�̉�A���́A��㈓I�A�v���[�`�̃��f����
-
-��MKSTRFW(�O�삳��o��I���W�i��)�F�r�W�l�X��]������ۂɗp����
-�E�ǂ̂悤�Ȏs��ŁH(Where?)�FPEST�A3C
-�E�N�ɁH�����H(Who?What?)�FSTP
-�E�ǂ̗l�ɒ񋟂���H(How?)�F4P
-�E������|���āH(HowMuch?)�FP/L,B/S,C/S
-�E���̌��ʉ����B������邩�H(Why?)�FMission,Vision,Value
-
-��IDBOMFW(��肳��I�y��I���W�i��)�F�I�y���[�V���i���G�N�Z�����X����������ۂɗp����
--�o�c�헪-
-�E�}�[�P�e�B���O�헪�F
-�E�����헪�F
-�E�l�ސ헪�F
-�E�g�D�헪�F
-�EIT�헪�F
--�񋟉��l-
-�E�R�X�g(Cost)�F
-�E�X�s�[�h(Delivery)�F
-�E���m��(Quality)�F
-�E�_�(Flexibility)�F
--�I�y���[�V�����헪-
-�EPDCA��BPR�ɂ��œK��
-�E�C���v�b�g(�������\�[�X�A���B)�FBPO�A���ʉ��A�W�����A��C���A���\�H���A�o�C���O�p���[�A�l�ވ琬�A�p�[�g�i�V�b�v
-�E�v���Z�X(����)�F�{�g���l�b�N�̉����A���Y�̕������A�W��A�K�͉��A���U�A�������A�v�搶�Y�A�󒍐��Y�A�O�����A������
-�E�A�E�g�v�b�g(���ʕ�)�F�󒍂̕������A���m�Ȑ헪�����A�i���̍œK���A�[���̍œK���AVOC
-
-��SZDSBFW(��،�����f�[�T�C�I���W�i��)�F
--�ڕW�^�C�V���[�ݒ�-
-�E���ׂĂ͗\��(���ށ^��A)
-�E���ށF�J�e�S���C�Y
-�E��A�F�A������
-�E�S�Ă̎��ۂ�\�����Fy=f(x)
-�Ey�F���x���A�^�[�Q�b�g
-�Ex�F�����ʁA�t���[�`���[
--�f�[�^�擾���T��-
-�E�^�[�Q�b�g(�ړI�ϐ�)�̐ݒ�
-�E�T���I�f�[�^���(�f�[�^�̕��z�A���ρA�W���΍��A������)
-�E���[�P�[�W(�^�[�Q�b�g�ƈ��ʊ֌W���Ȃ���)�̊m�F
-�E�\���Ɍ��������ȓ����ʂ����(�t���[�`���[�G���W�j�A�����O)
--���f����-
-�E�����ʃZ�b�g�̑I��
-�E���f���̍\�z
-�E�f�[�^�̗L�p�����^�[�Q�b�g�Ƃ̊֌W���]��
-�E�ߊw�K�`�F�b�N
-�E�N���X�o���f�[�V�����ɂ�郂�f���I��
-�E���l�]��(���ނ�LogLoss��AUC�A��A��RMSE��MAE��MAPE)
--���߁��v���[��-
-�E�ǂ̓����ʂ������Ă��邩�H
-�E�����ʖ��̍�p�́H
-�E���t�g�`���[�g�̐��x�͈�т��Ă��邩�H
-�E���[�h�N���E�h�́H
-�E���ނ̏ꍇ�A�����s��̐��𗦂́H
-�E���ނ̏ꍇ�A�����s��̃��R�[��(������ׂ����ŁA������ꂽ����)�́H
-�E���ނ̏ꍇ�A�����s��̃v���V�W����(���������̒��ŁA��������������)�́H
-�E���ނ̏ꍇ�A臒l��ω���������H
--�f�[�^�����A�����A�ێ�-
-�EPython�ŏ����Ă݂�H
-
-��BUPFW(�r�W�v��)�F
-�E�ړI�������蕪�́��₢�����b�Z�[�W���X�g�[���[���C�����X���C�h��(���n)���f���o�����s���ϗe
-�E����́A�ǂ��Ȃ�Ɗ������H���O�A����E�󋵁A�o���E�L�����A�E�X�L���A�����E�֐S�A���i�E���l�ρA�m��
-�E�֐S��(����/�Ȃ�)�����m����(����/���Ȃ�or�m�肽��)����������(�ǂ�/�͂����Ȃ�)����������(�����/����Ȃ�)��
-�E���b�Z�[�W�́A�K�R�����L�����������\��
-�E�{�f�B�̃��W�b�N�́�So What�F�v����ɉ����H��Why So�F���̂����Ȃ̂��H��How�F�@������Ηǂ����H��So What�F���_
-�E������́u�₢(�m�肽����)�v��񋓁��΂���u���b�Z�[�W(����)�v���x����u���W�b�N�v�Ɓu�{�f�B(����)�v�����Ԃ́u�X�g�[���[���C���v
--�������̗���-
-1)��薾�m��
-2)���ӏ��E�v���c��
-3)����������
-4)���s
--������̏��-
-1)���ӎ������m�łȂ�/���L����Ă��Ȃ�
-2)���E�@��̂���ӏ��E�������킩��Ȃ�
-3)�����􂪂킩��Ȃ�
-4)���s�ł��Ȃ�
--�₢����̉����������-
-1)������肩?
-�E����ׂ��p(���z���)�͉���?
-�E����ׂ��p�ɑ΂��Č���͂ǂ̂��炢��GAP������̂�?
-2)���E�@�����ӏ��͂ǂ��ŁA�Ȃ���������̂�?
-�E�ǂ�Ȏ��_�E�؂���Ŗ��𕪐͂����̂�?
-�E�Ȃ����������E�@�����ƌ�����̂�?�����͉���?
-�E�ǂ�Ȍ������l������̂�?
-�E������d�v�Ȍ����ƌ����鍪���͉���?
-3)������͉���?
-�E�ǂ�ȉ����􂪍l������̂�?
-�E�Ȃ����̉����􂪈�ԗǂ��̂�?
-4)�������ǂ̂悤�Ɏ��s����̂�?
-�E���A���ꂪ�A�ǂ�����čs���̂�?
-�E������s�����߂̎����͉���?
+・相関図(Correlation Diagram)※ビジネスモデル、収益構造、組織構造、業界構造、サービス提供構造等々
+・事業ポートフォリオ(Business Portfolio)
+-探索手順-
+①目的
+・論点確認、イシュー(何を考え論じるべきか)の確認
+・枠組検討、フレームワーク(切り口)の検討
+②仮説
+・初期仮説検討
+③調査
+・情報収集
+・情報整理
+・情報加工
+・情報計算
+・情報比較
+・前提確認
+・情報分析
+④結果
+・仮説検証
+・進化仮説検討
+⑤考察
+・主張検証
+⑥結論
+・結論記述
+
+
+～２要素(単純系、デジタル系)の基本フレームワーク～
+▼メリデメ：損得を比較する場合に使用
+・メリット：
+・デメリット：
+
+▼ファクエモ：
+・ファクト：
+・エモーション：
+
+▼レイセグ：
+・レイヤー：
+・セグメント：
+
+▼ポジネガ：
+・ポジティブ：
+・ネガティブ：
+
+▼デジアナ：
+・デジタル：
+・アナログ：
+
+▼陰陽：
+・陰：
+・陽：
+
+▼帰納演繹：
+・帰納：
+・演繹：
+
+▼長所と短所：
+・長所：
+・短所：
+
+▼効率と効果：
+・効率：
+・効果：
+
+▼質と量：
+・質：
+・量：
+
+▼事実と価値：
+・事実：
+・価値：
+
+▼内因と外因：主観と客観を比較する場合に使用
+・内部要因：
+・外部要因：
+
+
+～３以上の要素(複雑系、アナログ系)の基本フレームワーク～
+▼GBN：
+・Good(良かった点)：
+・Bad(悪かった点)：
+・Next(次どうする)：
+
+▼KPT：
+・Keep(続ける事)：
+・Problem(問題点)：
+・Try(試す事)：
+
+▼WCM：
+・Will(したいこと)：
+・Can(できること)：
+・Must(すべきこと)：
+
+▼3W(今ココわたし)：基本的な３象限な分け方
+・When(今)：
+・Where(ココ)：
+・Who(わたし)：
+
+▼5W1H(六何)：
+・When(何時)：
+・Where(何処)：
+・Who(何人)：
+・What(何を)：
+・Why(何故に)：
+・How(如何に)：
+
+▼6W3H：
+・What(課題-何を？)：
+・Why(動機-なぜ？)：
+・Who(主体-誰が？)：
+・Whom(対象-誰に？)：
+・When(時期-いつ？)：
+・Where(場所-どこで？)：
+・How much(費用-いくら？)：
+・How many(規模-どのくらい？)：
+・How(手段-どのように？)：
+
+
+～ビジネス系の応用フレームワーク～
+▼事業分析：ひろけんオリジナル。事業分析の王道
+・外部環境分析：市場、業界、顧客、競合（3C、市場:PEST/STP/6R、業界:5F/VC、顧客:KBF/DMU、競合:VRIO/VC/4P/QCD）
+・内部環境分析：資源(リソース:VSPRO/7S/PL/BS)、能力(ケイパビリティ:VRIO/VC)、強み、弱み（SWOT、強み:4P/QCD、弱み:4P/QCD）
+・成功要因分析：購買決定要因、意思決定者、成功の為の課題抽出(成功要因)
+
+▼市場分析：ひろけんオリジナル。市場分析の王道
+・市場規模：想定商圏の人口とほぼ等しい
+・市場成長率：前年度との差分
+・市場特徴：他と比べて特に違う点(「特長」は他に比べて特にすぐれている点)
+・市場傾向：今までの動き
+・市場動向：これからの動き
+
+▼3C：環境分析の王道
+・Customer(市場及び顧客)：
+・Competitor(競合)：
+・Company(自社)：
+
+▼PEST(マクロ環境)：コトラー教授。自社を取り巻く外部環境を分析し、現在または将来への影響を与えるか予測
+・Politics(政治)：国家、政府、自治体、法律、税制、政権、裁判、デモクラシー
+・Economy(経済)：市場、業界、業態、企業、景気動向、経済成長率、消費動向、物価、為替、金利
+・Society(社会)：人口、事件、流行、文化、宗教、教育、ライフスタイル
+・Technology(技術)：テクノロジ、インフラ、発明、特許、イノベーション
+
+▼5F(5つの力による業界環境分析)：ポーター教授。業界の収益性を決める5つの競争要因から、業界の構造分析をおこなう
+・新規参入(Threat of new entrants)：
+・代替品(Threat of substitutes)：
+・買手(Bargaining power of customers)：
+・売手(Bargaining power of suppliers)：
+・競合(Industry rivalry)：
+
+▼KBF：
+・Key Buying Factor(購買決定要因)：性能、価格等、購買の際に特に重視する要因。強引な営業等、購買行動に影響を与える要因。すべての消費者が同じ購買要因ではない。
+
+▼DMU：
+・Decision Making Unit(意思決定関与者)：購買プロセスにおいて意思決定に関与する者。関与者毎にKBFは違う。決定者、選定者、インフルエンサー、ゲートキーパー。
+
+▼KSF：
+・Key Success Factor(成功要因)：ビジネスプロセス全般において成功への鍵を握る要因。一般的にVCに沿って考える。
+
+▼業界KSF：
+・正攻法(Frontal attack)：
+・競争回避(Competition avoidance)：
+・刷新(Reform)：
+
+▼クロスSWOT：
+-内部環境要因-
+・Strengths(強み)：財務、知的財産、知名度、評判、ブランド、主要顧客との関係、顧客サービス、効率性、インフラ、立地、品質、材料、コスト
+・Weakness(弱み)：〃
+-外部環境要因-
+・Opportunities(機会)：政治・法令、市場トレンド、経済状況、株主の期待、科学技術、公衆の期待、競合他社の行為
+・Threats(脅威)：〃
+-クロス要因-
+・Strengths & Opportunities(強み⇔機会)：
+・Weakness & Opportunities(弱み⇔機会)：
+・Strengths & Threats(強み⇔脅威)：
+・Weakness & Threats(弱み⇔脅威)：
+
+▼STP：
+・Segmentation(セグメンテーション)：
+・Targeting(ターゲッティング)：
+・Positioning(ポジショニング)：
+
+▼6R：セグメンテーションとターゲッティングを絞るための指標
+･Realistic scale(有効な規模)：
+･Rate of growth(成長率)：
+･Rival(競合)：
+･Rank(優先順位)：
+･Reach(到達可能性)：
+･Response(測定可能性)：
+
+▼ヒトモノカネ(経営資源)：
+・ヒト：
+・モノ：
+・カネ：
+
+▼4P：
+・Product(製品)：
+・Price(価格)：
+・Place(場所)：
+・Promotion(販促)：
+
+▼QCD：製品やサービス等提供価値がある物を比較する場合に使用
+・Quality(品質)：
+・Cost(価格)：
+・Delivery(納期)：
+
+▼4C：
+・Consumer Value(顧客価値)：
+・Customer Cost(顧客費用)：
+・Convenience(利便性)：
+・Communication(伝達性)：
+
+▼MVV(経営理念)：
+・Mission(使命)：
+・Vision(将来像)：
+・Value(価値観)：
+
+▼VSPRO：アーサー・D・リトル。マネジメントシステムの理想と現状を分析するのに有効な分析手法
+・Vision(ビジョン)：その組織がどのようなビジョンを掲げているのか？、そのビジョンは適切なものなのか？
+・Strategy(戦略)：戦略はビジョンに沿ったものになっているか？、競合と差別化できる戦略になっているか？
+・Process(プロセス)：戦略実行のためのプロセスはどのようになっているか？、そのプロセスは戦略に沿ったものになっているか？
+・Resource(リソース)：プロセスを遂行できる十分なリソースを持っているか？（十分な資金、十分な設備、能力の高い従業員）
+・Organization(組織)：戦略・プロセスを実行できる組織構造になっているか？、従業員はビジョンや戦略を理解しているか？、中間管理職は従業員を動機づけられるか？
+
+▼VRIO(Resource Based View:内部資源理論)：ジェイ・B・バーニー氏。自社の内部資源(ケイパビリティ)≒「事業の強み」の視点で競合優位性を分析
+・Value(経済価値)：「事業の強み」の価値を指しています。価値は、その強みを活用することで、市場競争における機会を開拓する企業戦略をどれくらい実行できるか
+・Rarity(希少性)：希少度も価値と同様に「事業の強み」の希少度をさしています。市場における競合企業のうち、あなたがもつ「事業の強み」を持っていない企業がどれくらいか
+・Imitability(模倣困難性)：「事業の強み」をこれから取得する際に、「ヒト・モノ、カネ」などのコスト面で不利になる場合は、模倣可能度が低いと言える
+・Organization(組織)：「事業の強み」を十分に引き出せるかどうかは、企業の組織の効率性や機能性を重視して編成されているかどうかで決まる
+
+▼PAPRC：ひろけんオリジナル。組織のスキルセットを明文化する枠組み
+・Asset(保有資産)：固定資産、流動資産、設備、特許、ブランド
+・Perfomance(過去実績)：売上、利益、投資、
+・Portfolio(事業構成)：ポートフォーリオ、シナジー
+・Resource(経営資源)：人、
+・Capability(遂行能力)：
+
+▼ビジネス形態：ひろけんオリジナル。知識集約型は労働集約型に組み込まれているので、大きく分けると「労働集約」と「資本集約」の2つ
+・労働集約型ビジネス：接客応対を中心とするサービス業や、肉体労働によって収益を上げるビジネス。飲食、介護、福祉、病院、タクシー運転手、教師など
+・資本集約型ビジネス：固定資本の割合が高く、機材や設備に資本を投下して収益を上げるビジネス。機械化が進んだ製造業、電気業、ガス業、メーカー、大型商業施設など
+・知識集約型ビジネス：研究開発、資格取得で能力、スキルを磨き商品の開発、研究で収益を上げるビジネス。弁護士、会計士、税理士、コンサル、医薬品製造、ソフト開発など
+・フロービジネス：フロービジネスはその都度の取引で収入を上げているビジネス。居酒屋やレストランなどの飲食店、コンビニエンスストアなどの小売店など
+・ストックビジネス：顧客と契約を結んだり、会員を確保することで継続的な利益を得るビジネス。通信事業、電力・ガス事業、介護事業、塾事業、フランチャイズなど
+
+▼7S：
+・Strategy(戦略)：
+・System(システム、仕組み)：
+・Structure(組織構造)：
+・Shared Value(共有価値)：
+・Staff(人材)：
+・Skill(スキル、習得技術)：
+・Style(スタイル、雰囲気風習慣習)：
+
+▼HRM：
+・配置：
+・評価：
+・報酬：
+・育成：
+・採用：
+・退職：
+・ジョブマーケット：
+
+▼HRM環境戦略：
+・経営理念(Management philosophy)：
+・経営戦略(Management strategy)：
+・HR戦略(Human Resource strategy)：
+・人事制度(Personnel system)：
+・組織構造(Organizational structure)：
+・あるべき人材像(Ideal type of human resources)：
+・企業文化・風土(Corporate culture)：
+・IR：
+・沿革：
+
+▼ポーターの基本戦略：
+・コストリーダシップ戦略：
+・差別化戦略：
+・集中戦略：
+
+▼経営戦略:
+・全社戦略(企業戦略)：事業ポートフォリオ最適化（選択と集中、参入・撤退・買収）、組織・風土変革、財務戦略など会社全体をドライブする戦略
+・事業戦略：特定の事業部門の事業目標・方針の実現に向けて策定される、事業企画や部署間の連携方法、収益最大化、新市場創出、新規事業立ち上げなどの戦略
+・機能戦略：事業企画、開発・製造・営業など特定機能組織の個別戦略
+
+▼FSA(Financial Statement Analysis:財務諸表分析)：
+・損益計算書(P/L:Profit and Loss Statement)：
+・貸借対照表(B/S:Balance Sheet)：
+・キャッシュフロー計算書(C/S:Cash Flow Statement)：
+・財務指標(F/I:Financial Indicator)：
+
+▼財務指標(F/I:Financial Indicator)：
+-分析-
+・総合力分析：自己資本利益率(ROE)、総資産利益率(ROA)、投資利益率(ROI)、投下資本利益率(ROIC)
+・収益性分析：売上高総利益率、売上高営業利益率、売上高経常利益率、売上高当期純利益率
+・効率性分析：総資産回転期間(日)、流動資産回転期間(日)、固定資産回転期間(日)、流動負債回転期間(日)、キャッシュコンバージョンサイクル(日)、総資産回転率、総資産回転期間、売上債権回転率、売上債権回転期間、棚卸資産回転率、棚卸資産回転期間、仕入債務回転率、仕入債務回転期間
+・安全性分析：財務レバレッジ、自己資本比率、流動比率、当座比率、固定比率、固定長期適合率、手元流動性、手元流動性比率、インタレストカバレッジレシオ
+・成長性分析：売上高成長率、総資産成長率、n年間の平均成長率(CAGR)
+-指標-(各指標の算出式と、取りうる値と平均値、大きくなると何を意味し、小さくなると何を意味するか)
+・売上高成長率：(当年度売上高-前年度売上高)/前年度売上高
+・総資産成長率：(当年度資産合計-前年度資産合計)/前年度資産合計
+・n年間の平均売上高成長率(CAGR)：(当年度売上高/n年前の売上高)^1/n-1
+・n年間の平均総資産成長率(CAGR)：(当年度総資産/n年前の総資産)^1/n-1
+・売上高総利益率：売上総利益/売上高
+・売上高営業利益率：営業利益/売上高
+・売上高経常利益率：経常利益/売上高
+・売上高当期純利益率：当期純利益/売上高
+・総資産回転率：売上高/総資産 = 売上高/資産合計
+・総資産回転期間：総資産/(売上高/365日) = 資産合計/(売上高/365日)
+・売上債権回転率：売上高/売上債権
+・売上債権回転期間：売上債権/(売上高/365日)
+・棚卸資産回転率：売上原価/棚卸資産
+・棚卸資産回転期間：棚卸資産/(売上原価/365日)
+・仕入債務回転率：売上原価/仕入債務
+・仕入債務回転期間：仕入債務/(売上原価/365日)
+・財務レバレッジ：総資産/株主資本
+・自己資本比率：自己資本/(負債+純資産) = (純資産-新株予約権-非支配株主持分)/(負債+純資産)
+・流動比率：流動資産/流動負債
+・当座比率：当座資産/流動負債 = (流動資産-棚卸資産)/流動負債
+・固定比率：固定資産/純資産
+・固定長期適合率：固定資産/(固定負債+純資産)
+・手元流動性：現金預金 + 短期所有の有価証券
+・手元流動性比率：(現金預金+短期所有の有価証券) / (売上高/365日)
+・インタレストカバレッジレシオ(ICR)：(営業利益+受取利息・配当金)/支払利息
+・自己資本利益率(ROE)：当期純利益/自己資本 = 当期純利益/売上高 * 売上高/資産合計 * 資産合計/自己資本 = 売上高当期純利益率 * 総資産回転率 * 財務レバレッジ
+・総資産利益率(ROA)：経常利益/資産合計 = 経常利益/売上高 * 売上高/資産合計 = 売上高経常利益率 * 総資産回転率
+-関係性-
+・ROE = (                                 ROA                                               ) + (            財務レバレッジ)
+      = (             利益                 +                資産                            ) + (       負債        +純資産)
+      = ((     売上     +      費用      ) + (  流動資産      +           固定資産         )) + ((流動負債+固定負債)+純資産)
+      = (((客単価+客数) + (変動費+固定費)) + ((現金+売上債権) + (有形固定資産+無形固定資産))) + ((流動負債+固定負債)+純資産)
+・FCF=EBIT*(1-税率)+減価償却費-投資-Δ運転資本
+・rE=rF+β(rM-rF)
+・WACC=D/(D+E)*rD*(1-税率)+E/(D+E)*rE
+・NPV=ΣFCFn/(1+WACC)^n-FCF0
+-略語-
+・ROE：Return On Equity＝自己資本利益率
+・ROA：Return On Assets＝総資産利益率
+・ROS：Return On Sales＝売上高利益率
+・ROI：Return On Investment＝投資利益率
+・ROIC：Return On Investment Capital＝投下資本利益率
+・ROCE：Return On Capital Employed＝使用資本利益率
+・ROAS：Return On Advertising Spend＝広告費用対効果
+・EBITDA：Earnings Before Interest Taxes Depreciation and Amortization＝利払前税引前減価償却前利益
+・EBIT：Earnings Before Interest and Taxes＝利払前税引前利益＝営業利益
+・EBT：Earnings Before Taxes＝税引前利益
+・NOPAT：Net Operating Profit After Taxes＝税引後営業利益
+・CAPEX：Capital Expenditure＝資本的支出
+・Dep：Depreciation & amotization＝減価償却費
+・BEP：Break Even Point＝損益分岐点
+・MP：Marginal Profit＝限界利益
+・WC：Working Capital＝運転資本＝流動資産-(有利子負債を除いた)流動負債
+・ΔWC：changes in Working Capital＝増加運転資本＝今期-前期
+・CCC：Cash Conversion Cycle＝現金循環化日数
+・CAGR：Compound Annual Growth Rate＝年平均成長率
+・FCF：Free Cash Flow＝フリーキャッシュフロー
+・WACC：Weighted Average Cost of Capital＝加重平均資本コスト
+・NPV：Net Present Value＝正味現在価値
+・APV：Adjusted Present Value＝調整現在価値
+・PV：Present Value＝現在価値
+・EV：Enterprise Value＝企業の事業価値
+・IRR：Internal Rate of return＝内部収益率
+・EPS：Earnings Per Share＝一株当たり当期純利益
+・PER：Price Earnings Ratio＝株価収益率
+・BPS：Book-value Per Share＝1株当たり純資産
+・PBR：Price Book-value Ratio＝株価純資産倍率
+・CAPM：Capital Asset Pricing Model＝資本資産価格モデル
+・IC：投下資本
+・CE：使用資本
+・Book Value＝簿価：帳簿価額
+・Market Value＝時価：市場価格
+・rD：有利子負債コスト≒支払利息
+・rE：株主コスト≒期待リターン(期待収益率)≒CAPM
+・rF：リスクフリーレート≒国債利回り(10年物？)
+・rM：マーケットポートフォーリオ
+・rM-rF：マーケットリスクプレミアム
+・rP：マーケットリスクプレミアム
+・β：市場リスク敏感度指標
+・βAL：Levered Asset β＝有利子負債がある資産β
+・βEL：Levered Equity β＝有利子負債がある株式β
+・βAU：Unlevered Asset β＝有利子負債が無い資産β
+・βEU：Unlevered Equity β＝有利子負債が無い株式β
+・D/E：D/Eレシオ
+・D/(D+E)：負債比率
+・E/(D+E)：株主資本比率
+
+▼デュポンモデル：
+・売上利益率(ROS)：当期純利益/売上高
+・資産回転率：売上高/平均総資産
+・総資産利益率(ROA)：当期純利益/平均総資
+・財務レバレッジ：平均総資産/平均株主資本
+・株主資本利益率(ROE)：当期純利益/平均株主資本
+
+▼コスト構造：固定費(売上とは無関係に発生する費用)と変動費(売上の増減に比例して変動する費用)の科目は業界、経営方針によって分類が変わる。
+-固定費-
+・プロパー人件費：
+・減価償却費：
+・固定資産税：
+・家賃：
+・光熱費：
+・広告費：
+・保険料：
+-変動費-
+・パート人件費：
+・売上原価：
+・原材料費：
+・販売手数料：
+・消耗品費：
+・運送費：
+・外注費：
+・広告宣伝費：
+・研究開発費：
+
+▼CVP分析(Cost Volume Profit Analysis:損益分岐点分析)：
+・Cost(コスト)：
+・Volume(販売量)：
+・Profit(利益)：
+
+▼CVP(Customer Value Proposition:顧客価値の提供)：
+・利益方程式：
+・経営資源：
+・プロセス：
+
+▼BSC(Balanced Scorecard)：キャプラン教授とノートン博士が提唱。企業の業績に影響を与えている要因を可視化・管理する、業績評価システム。
+・財務の視点：固定比率、負債資本比率、純資産利益率、純利益率、経済付加価値、純売上高、営業利益、総原価、当座比率、投資収益率・・・
+・顧客の視点：信頼度、製品イメージ、リピート購買率、顧客ロイヤリティー指標、顧客訪問回数、マーケティング費用、平均取引高、顧客評価点、接客当たりの契約数・・・
+・内部の視点：電話アクセス数、生産リードタイム、発生エラー数、IT経費率、棚卸資産回転率、品切れ率、新製品シェア率、生産性向上率、インターネット顧客率・・・
+・学習と成長の視点：従業員数、資格取得率、平均欠勤率、リーダーシップ率、女性管理職数、エンパワーメント係数、従業員満足度、能力向上率、社内改革提案件数、入社希望者数、従業員一人あたりの研修費用・・・
+
+▼OKR(Objectives and Key Results)：
+・Objective (目標)：
+・Key Results（目標達成のための主要な成果）：
+
+▼MBO(Management By Objectives)：
+
+▼KPI(Key Performance Indicator)：
+
+▼SMART：
+・Specific(具体的に)：誰が読んでも理解できる、明確で具体的な目標にする
+・Measurable(測定可能な)：達成度合いが客観的に判断できるよう、数値で表せる目標にする
+・Achievable(達成可能な)：現実的な目標にする
+・Related(経営目標に関連した)：組織にとって意味のある目標にする
+・Time-bound(期限がある)：締め切りのある目標にする
+
+▼VC(Value Chain:価値連鎖)：
+-主活動-
+・購買物流：
+・製造：
+・出荷物流：
+・販売・マーケティング：
+・サービス：
+-支援活動-
+・全般管理：
+・人事・労務管理：
+・技術開発：
+・調達活動：
+-マージン-
+・付加価値：
+・利益：
+
+▼Cost Driver：ポーターは事業分析の際にコストを規定する構造的要因を整理している。コスト・ドライバーがどのように自社のバリューチェーンに影響を与えるかを定量的に把握する
+・規模の経済（または規模の非経済）
+・経験曲線（ラーニング、経験の共有など）
+・範囲の経済（他の事業単位との活動の共有化、シナジーなど）
+・設備などの利用状況（利用度と固定費との関係、利用度の変化など）
+・連結関係（価値連鎖の最適化、サプライヤーや流通チャネルとの関係）
+・統合（垂直統合などによる「５つの力」の変更）
+・タイミング（先行者の有利、不利）
+・自由裁量できる政策（製品政策、技術・マーケティング手段の選択など）
+・要素コスト（原材料や労働力などの変化）
+・制度的要因（規制、法律、労働慣行などの影響）
+
+▼事業経済性：
+・規模の経済(スケール効果)：
+・稼働率の経済(スコープ効果)：
+・範囲の経済(シナジー効果)：
+・密度の経済(ドミナント効果)：
+・分散の経済(ネットワーク効果)：
+・経験曲線の経済(経験効果)：
+
+▼SCM(Supply Chain Management)：
+・開発：
+・調達：
+・製造：
+・発送：
+・販売：
+
+▼忘却借用学習：
+・忘却：
+・借用：
+・学習：
+
+▼CAF(Country Analysis Framework)：
+・Context：国内の経済資源、政治システム、社会制度、イデオロギー。国際の貿易関係、多国間機関、国際機関
+・Strategy：ゴールの経済成長、雇用、物価ん程度、消費、輸出、政治安定性、教育、社会福祉。政策の財政政策、金融政策、貿易政策
+・Performance：経済のGDP、失業率、インフレ、国際収支、政治の独立、体制変更、社会の識字率、住宅供給、給与レベル
+
+▼ACL：国家を分析する際にこの3要素を評価する事により公的権威と社会との間の関係が定義づけられる
+・Autonomy(独立性)：
+・Capacity(能力)：
+・Legitimacy(正当性)：
+
+▼コア・コンピタンス：
+・商品力：商品サービスの開発数、開発スピード、製品シェア
+・企画力：リサーチ能力、プランニング能力、顧客育成能力
+・営業力：営業人員数、企画提案力、顧客名簿数
+・サポート力：相談対応人員数、フォロー力、顧客満足度
+
+▼PLC(Product Life Cycle)：
+・導入期(Innovators)：
+・成長期(Early Adopters)：
+・成熟期(Early Majority)：
+・飽和期(Late Majority)：
+・衰退期(Laggards)：
+
+▼VPC(Value Proposition Canvas)：
+-提供価値-
+・提供する製品、サービス+特徴(Product&Services)：
+・提供サービスによって得られる嬉しい要因(Gain Creators)：
+・提供サービスによって減らすことのできる嫌な要因(Pain Relievers)：
+-顧客セグメント-
+・顧客のしたいこと(仕事)(Customer Jobs)：
+・顧客が嬉しいこと(メリット・恩恵)(Gain)：
+・顧客が嫌なこと(障害・リスクや悪い結果)(Pain)：
+
+▼ジョブマップ：
+-定義-
+・中核となる機能的ジョブ：
+・ジョブ履行者(実行者)：
+-細分化-
+・感情的なジョブ(Emotional Jobs)：中核となる機能的なジョブの履行中に、ジョブ実行者が個人的に得たい感情、また反対に欲しくない感情を記載
+・社会的なジョブ(Society Jobs)：中核となる機能的なジョブを実行するにあたって、ジョブ実行者が「第三者から認められたいこと」また「認められたくないこと」を書く
+・関連するジョブ(Related Jobs)：中核となる機能的なジョブに関連して、ジョブの実行者が日常的に履行する可能性のあるジョブを書く
+・台頭するジョブ(Alternative Jobs)：新たなトレンド、技術、規制などに関してジョブの実行者が新たに関心をもつ可能性がある「機能的ジョブ」を考える
+-プロセス-
+・計画する(Define)：
+・収集する(Locate)：
+・準備する(Prepare)：
+・確認する(Confirm)：
+・開始する(Execute)：
+・監視する(Monitor)：
+・修正する(Modify)：
+・終了する(Conclude)：
+
+▼ビジネスモデルキャンバス：
+・顧客セグメント(CS:Customer Segment)：「誰に売るか」という観点
+・顧客との関係(CR:Customer Relationships)：直接体験して接客するのか、セルフサービスなのか。継続的な関係なのか、一度ずつの関係なのか。
+・チャネル(CH:Channels)：チャネルは、顧客にビジネスの価値を提供する経路、またはその価値を宣伝する経路
+・提供価値(VP:Value Propositions)：顧客の生活を便利にするのか、快楽を与えるのか、もしくはコストの削減などに寄与するのか、新たな可能性を提供するのか
+・キーアクティビティ(KA:Key Activities)：あなたが取り組まなければならない活動「事業内容」。販売を行うのか、製造を行うのかネットサービスの運営を行うのか
+・キーリソース(KR:Key Resources)：ビジネスモデル実現のために必要な資源です。経営における資源は4つ、ヒト、モノ、カネ、情報
+・キーパートナー(KP:Key Partners)：販売を代替してくれる小売店なのか、製造を委託する製造業なのか、資源を提供してくれるサプライヤーなのか
+・コスト構造(CS:Cost Structure)：人件費、広告宣伝費、製造費、開発費などなど、ビジネスにはさまざまなコストがあります
+・収入の流れ(RS:Revenue Streams)：顧客にも、無料のユーザー、有料のユーザーがいます。料金にも、登録料、仲介料など様々な種類があります。
+
+▼リーンキャンバス：
+・課題（インサイト）：
+・顧客セグメント：
+・独自の価値提案：
+・ソリューション：
+・チャネル：
+・収益の流れ：
+・コスト構造：
+・主要指標：
+・圧倒的な優位性：
+
+▼カスタマージャーニーマップ：
+-[横軸]行動-
+・認知：
+・興味、関心：
+・比較検討：
+・購入：
+-[縦軸]体験-
+・タッチポイント：
+・思考：
+・感情：
+
+
+～マトリックス系の展開フレームワーク～
+▼AZMX(Ansoff Matrix)：アンゾフ氏。新事業の検討や既存事業の事業戦略の検討の際に有効
+-[横軸]既存新規製品-
+・新製品開発：
+・多角化：
+-[縦軸]既存新規市場-
+・市場浸透：
+・新市場開拓：
+
+▼AVMX(Advantage Matrix)：
+-[横軸]優位性構築の可能性-
+・規模型事業：
+・手詰まり型事業：
+-[縦軸]業界の競争要因の数-
+・特化型事業：
+・分散型事業：
+
+▼VP(Value Portfolio)：
+-[横軸]ROI-
+・機会事業：
+・見切り事業：
+-[縦軸]ビジョン整合性-
+・本命事業：
+・課題事業：
+
+▼PPM(Product Portfolio Management)：ボストンコンサルティング。
+-[横軸]相対マーケットシェア-
+・問題児(Question mark)：
+・負け犬(Dog)：
+-[縦軸]市場成長率-
+・花形(Star)：
+・金のなる木(Cash cow)：
+
+
+～ピラミッド系の展開フレームワーク～
+▼合意形成のステップ：
+・目的の共有：到達点の設定→出発点の決定→重点の策定
+・納得感の醸成：前提の整合(Base)→何が問題(What)→どこが問題(Where)→何故問題(Why)→どうする(How)
+・行動の選択：
+・実行の決意：
+
+▼目的共有ステップ：
+・到達点の設定：
+・出発点の決定：
+・重点の策定：
+
+▼納得感醸成ステップ：
+・前提の整合(Base)：
+・何が問題(What)：
+・どこが問題(Where)：
+・何故問題(Why)：
+・どうする(How)：
+
+▼議論ステップ：
+・引き出す(Lead)：
+・受け止める(Catch)：
+・さばく(Control)：
+
+▼さばき：論点のコントロール
+・移行(Shift)：
+・保留(Stack)：
+・見守る(Stay)：
+・確認(Identify)：
+・広げる(Expand)：
+・深める(Deep)：
+
+▼変革のステップ：
+・危機意識を高める：
+・変革推進のための推進チームをつくる：
+・ビジョンを定義する：
+・従業員にビジョンを周知徹底する：
+・従業員に権限を与え、ビジョンの実現を推進する：
+・短期的成果を上げるための計画を立て、実行する：
+・短期的な成果を活かして、さらなる変革を推進する：
+・変革を根付かせる：
+
+▼チーム形成の5ステップ(タックマンモデル)：
+･形成期(Forming)：
+･混乱期(Storming)：
+･統一期(Norming)：
+･機能期(Performing)：
+･散会期(Adjourning)：
+
+▼ブランド共感のピラミッド：
+・共感(Resonance)：顧客とブランドの関係の性質、および顧客がブランドと「同調している」と感じる程度
+・評価・判断(Judgments)：顧客自身の個人的意見や評価
+・感情(Feelings)：ブランドに関する顧客の感情的対応や反応
+・品質・効果(Performance)：製品やサービスが、顧客の機能的ニーズをいかに満たすか
+・表象(Imagery)：ブランドが顧客の心理的ニーズまたは社会的ニーズを満たそうとする方法など、製品やサービスに付帯する特性
+・主要機能 (Salience)：様々な購買状況や消費状況の下で、ブランドがどれほど頻繁 で容易に思い起されるか
+
+▼マズローの欲求5段階(6段階)：
+・(自己超越)：
+・自己実現：
+・承認：
+・所属と愛：
+・安全：
+・生理的：
+
+
+～カスタマージャーニー系の展開フレームワーク～
+▼AIDA：消費者が商品に接してから購買にいたるまでの決定プロセス(米国で主流)
+・Attention(注意)：顧客の注意を引く
+・Interest(関心)：顧客に商品を訴求し関心を引く
+・Desire(欲求)：顧客に商品への欲求があり、それが満足をもたらすことを納得させる
+・Action(行動)：顧客に行動を起こさせる
+
+▼AIDMA：短期的な消費者の購買決定プロセス
+・注意喚起(Attention)：
+・興味(Interest)：
+・欲求(Desire)：
+・記憶(Memory)：
+・行動(Action)：
+
+▼AIDCA：ダイレクトマーケティングでの消費者の購買決定プロセス
+・Attention(注意)：
+・Interest(関心)：
+・Desire(欲求)：
+・Conviction(確信)：
+・Action(行動、購入)：
+
+▼AIDCAS：
+・Attention(注意喚起)：
+・Interest(興味)：
+・Desire(欲求)；消費者が商品/サービスをほしくなる
+・Conviction(確信)：
+・Action(行動)：消費者が商品を購入する
+・Satisfaction(満足)：
+
+▼AISAS：インターネットでの消費者の購買決定プロセス
+・Attention(注意)：
+・Interest(関心)：
+・Search(検索)：
+・Action(行動、購入)：
+・Share(共有、商品評価をネット上で共有しあう)：
+
+▼DAISAS(Dual AISAS)：
+-買うことが目的のAISAS-
+・Attention(注意)：消費者が広告をみて商品・サービスを知る
+・Interest(関心)：消費者が興味・関心を持つ
+・Search(検索)：消費者が商品を調べる
+・Action(行動、購入)：消費者が商品を買う/サービス利用
+・Share(共有)：消費者が商品の評価を情報共有する
+-広めることが目的のAISAS-
+・Activate(起動)：商品・サービスに興味をもつ
+・Interest(興味)：商品・サービスに参加の意識をもつ
+・Share(共有)：ブランド情報に共感し、Webで共有
+・Accept(受容)：第三者が受け取る。
+・Spread(拡散)：第三者が拡散
+
+▼AISCEAS：
+・Attention(注意)：認知段階
+・Interest(興味)：認知段階
+・Search(検索)：感情段階
+・Comparison(比較)：感情段階
+・Examination(検討)：感情段階
+・Action(購買)：行動段階
+・Share(情報共有)：行動段階
+
+▼VISAS：
+・Viral(口コミ)：
+・Influence(影響)：
+・Sympathy(共感)：
+・Action(購買行動)：
+・Share(情報共有)：
+
+▼DECAX：
+・Discovery(発見)：消費者が有益なコンテンツを発見
+・Engage(関係)：消費者がコンテンツの発信元と関係を深める
+・Check(確認)：消費者が発信元の商品を確認
+・Action(購買)：消費者が商品を購入する
+・eXperience(体験と共有)：消費者が商品を体験して情報共有する
+
+▼AMTUL：
+・Aware(認知)：
+・Memory(記憶)：
+・Trial(試用)：
+・Usage(本格的な使用)：
+・Loyalty(固定客)：
+
+▼SIPS：
+・Sympathize(共感する)：
+・Identify(確認する)：
+・Participate(参加する)：
+・Share&Spread(共有拡散する)：
+
+▼AIDAS：
+・Attention(注意)：
+・Interest(関心)：
+・Desire(欲求)：
+・Action(行動、購入)：
+・Satisfaction(満足)：
+
+▼AIDEES：
+・Attention(認知)：
+・Interest(興味)：
+・Desire(欲求)：
+・Experience(購入、経験)：
+・Enthusiasm(心酔、熱中)：
+・Share(情報共有)：
+
+
+～グロービス講師陣の講義系フレームワーク～
+▼UZQABFW(魚住さんビジ定オリジナル)：定量的な分析をする際に用いる
+-手順-
+・分析(比較の視点×要約へのアプローチ)の目的を押さえる
+・仮説を持ってどんな情報が必要か洗い出す
+・適切な情報を収集する
+・分析の際にどんな前提を置くべきか確認する
+・集めた情報を加工、計算をする
+・目的につながる解釈をする
+・加工結果や解釈を分かりやすく表現する
+-比較-
+・インパクト(大きさに意味があるか？)：横棒グラフ、円グラフ
+・ギャップ(差異は？)：横棒グラフ、ウォーターフォール
+・トレンド(変化は？)：折れ線グラフ、縦棒グラフ
+・ちらばり(集中は？)：ヒストグラム、パレートチャート
+・パターン(散らばりは？)：散布図、マトリックス
+-要約-
+・視覚化(図にする手法)：ヒストグラム、ウォーターフォール、パレート図、時系列
+・数値化(集約する手法)：代表値で表す平均値や中央値や最頻値、散らばり具合を表す分散係数、標準偏差
+・数式化(関係性をとらえる手法)：帰納的アプローチの回帰分析、演繹的アプローチのモデル化
+
+▼MKSTRFW(前川さん経戦オリジナル)：ビジネスを評価する際に用いる
+・どのような市場で？(Where?)：PEST、3C
+・誰に？何を？(Who?What?)：STP
+・どの様に提供する？(How?)：4P
+・いくら掛けて？(HowMuch?)：P/L,B/S,C/S
+・その結果何が達成されるか？(Why?)：Mission,Vision,Value
+
+▼IDBOMFW(井手さんオペ戦オリジナル)：オペレーショナルエクセレンスを実現する際に用いる
+-経営戦略-
+・マーケティング戦略：
+・財務戦略：
+・人材戦略：
+・組織戦略：
+・IT戦略：
+-提供価値-
+・コスト(Cost)：
+・スピード(Delivery)：
+・正確性(Quality)：
+・柔軟性(Flexibility)：
+-オペレーション戦略-
+・PDCAとBPRによる最適化
+・インプット(投入リソース、調達)：BPO、共通化、標準化、専任化、多能工化、バイングパワー、人材育成、パートナシップ
+・プロセス(やり方)：ボトルネックの解消、生産の平準化、集約、規模化、分散、分離化、計画生産、受注生産、外製化、内製化
+・アウトプット(成果物)：受注の平準化、正確な戦略理解、品質の最適化、納期の最適化、VOC
+
+▼SZDSBFW(鈴木健さんデーサイオリジナル)：
+-目標／イシュー設定-
+・すべては予測(分類／回帰)
+・分類：カテゴライズ
+・回帰：連続数字
+・全ての事象を表す式：y=f(x)
+・y：ラベル、ターゲット
+・x：特徴量、フューチャー
+-データ取得＆探索-
+・ターゲット(目的変数)の設定
+・探索的データ解析(データの分布、平均、標準偏差、欠損状況)
+・リーケージ(ターゲットと因果関係がない事)の確認
+・予測に効きそうな特徴量を作る(フューチャーエンジニアリング)
+-モデル化-
+・特徴量セットの選択
+・モデルの構築
+・データの有用性＆ターゲットとの関係性評価
+・過学習チェック
+・クロスバリデーションによるモデル選択
+・数値評価(分類はLogLossかAUC、回帰はRMSEかMAEかMAPE)
+-解釈＆プレゼン-
+・どの特徴量が効いているか？
+・特徴量毎の作用は？
+・リフトチャートの精度は一貫しているか？
+・ワードクラウドは？
+・分類の場合、混同行列の正解率は？
+・分類の場合、混同行列のリコール(見つけるべき中で、見つけられた割合)は？
+・分類の場合、混同行列のプレシジョン(見つけたもの中で、正しかった割合)は？
+・分類の場合、閾値を変化させたら？
+-データ準備、実装、保守-
+・Pythonで書いてみる？
+
+▼BUPFW(ビジプレ)：
+・目的→聞き手分析→問い→メッセージ→ストーリーライン→スライド→(リハ)→デリバリ→行動変容
+・相手は、どうなると嬉しい？名前、立場・状況、経験・キャリア・スキル、興味・関心、性格・価値観、知識
+・関心が(ある/ない)事→知って(いる/いないor知りたい)事→言って(良い/はいけない)事→教えて(くれる/くれない)事
+・メッセージは、必然性→有効性→実現可能性
+・ボディのロジックは→So What：要するに何か？→Why So：何故そうなのか？→How：如何すれば良いか？→So What：結論
+・聴き手の「問い(知りたい事)」を列挙→対する「メッセージ(答え)」→支える「ロジック」と「ボディ(説明)」→順番の「ストーリーライン」
+-問題解決の流れ-
+1)問題明確化
+2)問題箇所・要因把握
+3)解決策立案
+4)実行
+-聴き手の状態-
+1)問題意識が明確でない/共有されていない
+2)問題・機会のある箇所・原因がわからない
+3)解決策がわからない
+4)実行できない
+-問いを具体化する方向性-
+1)何が問題か?
+・あるべき姿(理想状態)は何か?
+・あるべき姿に対して現状はどのくらいのGAPがあるのか?
+2)問題・機会がある箇所はどこで、なぜ発生するのか?
+・どんな視点・切り口で問題を分析したのか?
+・なぜそこが問題・機会があると言えるのか?根拠は何か?
+・どんな原因が考えられるのか?
+・それを重要な原因と言える根拠は何か?
+3)解決策は何か?
+・どんな解決策が考えられるのか?
+・なぜその解決策が一番良いのか?
+4)解決をどのように実行するのか?
+・いつ、だれが、どうやって行うのか?
+・それを行うための資源は何か?
 ======================================================================================================
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
