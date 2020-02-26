@@ -1,4 +1,4 @@
-GLOBIS_Day6-最終回アンケート
+GLOBIS_Day6-最終アンケート
 #
 # $Header: GLOBIS_Day6-Last_Enquete.txt $
 #       https://github.com/hirosenokensan/GLOBIS_Class_Templates
@@ -8,6 +8,8 @@ GLOBIS_Day6-最終回アンケート
 #                https://creativecommons.org/licenses/by-sa/4.0/
 #
 ----------------------------+---------------------------------------------+---------------------------+----------------------------------+
+
+【Day6最終アンケート】ひろけん（広瀬健一）
 
 ひろけん（広瀬健一）＠グロービス経営大学院 2018期東京セクションG MBA履修生＆GYFG(Globis YOKOHAMA First Generation students:横浜一期生)です。いつもお世話になっております。
 
